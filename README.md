@@ -1,0 +1,6 @@
+# guide-ess
+L’évolution des pratiques des géants numériques montre à quel point leurs valeurs sont éloignées des principes qui guident les acteurs de l’Économie sociale et solidaire (ESS). Malgré cela, beaucoup de structures relevant de l’ESS continuent à utiliser leurs outils et leurs services pour leur communication numérique.
+
+L’objectif de ce guide est de montrer qu’il existe des alternatives valables pour remplacer ces outils et ces services par des solutions bien plus vertueuses. Le guide comporte une première partie qui rappelle le fossé entre les valeurs des géants numériques comme les GAFAM et celles de l’ESS. Elle présente ensuite les logiciels libres en tant que piste à suivre. La seconde partie présente un catalogue organisé de solutions alternatives pour permettre aux ESS de découvrir des options concrètes pour rendre leur communication numérique cohérente avec leurs valeurs fondamentales.
+
+Ce guide est issu du travail de Bachelor en Ingénierie des médias de Safa Shams. Il a été retravaillé et mis en page par Audrey Huguenin, assistante au MEI, et est illustré par le dessinateur romand Pierpaolo Pugnale, dit Pécub. Vous pouvez nous envoyer vos commentaires, remarques et suggestions à travers le formulaire de contact sur: heig.ch/guide-ess
