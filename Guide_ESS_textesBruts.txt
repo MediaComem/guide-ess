@@ -1,0 +1,4207 @@
+VERS UNE
+
+communication numérique
+
+PLUS sociale et solidaire
+
+Des solutions pour aligner la communication numérique
+des acteurs de l’Économie Sociale et Solidaire
+avec ses valeurs fondamentales
+
+
+Par Safa Shams et Audrey Huguenin
+
+
+
+VERS UNE
+
+communication numérique
+
+PLUS sociale et solidaire
+
+Des solutions pour aligner la communication numérique 
+des acteurs de l’Économie Sociale et Solidaire avec ses 
+valeurs fondamentales
+
+Un guide basé sur le travail de bachelor de Safa Shams
+
+Réalisé en collaboration avec Audrey Huguenin
+
+Illustré par Pécub
+
+Edité par :
+
+
+
+Sommaire
+
+CONCILIER TRANSITION NUMÉRIQUE ET VALEURS DE L’ESS.......6Première Partie..............................................................................................8À QUI S’ADRESSE CE GUIDE?................................................................11DÉCOUVRIR L’ECONOMIE SOCIALE ET SOLIDAIRE.......................13Principes et valeurs de l’ESS..................................................................................14Chambres de l’ESS....................................................................................................16Objectifs de communication.................................................................................17L’ESS FACE AUX GÉANTS NUMÉRIQUES...........................................19Vie privée et publicité ciblée.................................................................................20Censure de l’information et bulle de filtrage...................................................25Logiciels propriétaires.............................................................................................25Fermeture de l’écosystème et centralisation des données.......................26Monopole et frein à l’innovation..........................................................................27LES LOGICIELS LIBRES C’EST QUOI?.................................................29Différences entre logiciels libres et open source...........................................32Les licences libres......................................................................................................33Au-delà des logiciels libres.....................................................................................34
+
+LES DIFFICULTÉS RENCONTRÉES PAR L’ESS..................................36Le budget limité.........................................................................................................37Les connaissances limitées du sujet..................................................................38Les habitudes..............................................................................................................39L’audience....................................................................................................................40QUELQUES SOLUTIONS.........................................................................42S’informer, informer et se former..........................................................................43Communiquer, partager et convaincre.............................................................46Co-créer.........................................................................................................................48Deuxième Partie..........................................................................................50CRÉER SON SITE WEB.............................................................................53CRÉER SON CONTENU...........................................................................61PROMOUVOIR SON ACTIVITÉ...............................................................73TRAVAILLER AU QUOTIDIEN.................................................................83RESTER LIBRE...........................................................................................99RECOMMANDATIONS LIBRES............................................................110Bibliographie............................................................................................................112Index des outils par nom......................................................................................116Index des outils par alternative..........................................................................117Impressum.................................................................................................................119
+
+Concilier transition 
+numérique et valeurs 
+de l’ESS
+
+ La transition numérique s’appuie essentiellement 
+sur des solutions proposées par de grands acteurs internationaux 
+dont les valeurs sont en opposition flagrante avec celles 
+portées par le mouvement de l’Économie Sociale et Solidaire 
+(ESS).
+
+Plus généralement, la transformation numérique des organisations 
+et de la société pousse les individus et les structures à 
+utiliser les services d’une poignée d’entreprises gigantesques 
+qui dominent le marché. Ces entreprises multinationales sont 
+cotées en bourse et cherchent à maximiser leurs profits et leur 
+croissance au bénéfice de leurs actionnaires. Google, Apple, 
+Facebook, Amazon et Microsoft mais aussi les géants chinois 
+comme Alibaba ou Baidu, pour ne citer que les principaux acteurs, 
+dominent l’informatique personnelle, la bureautique, 
+l’environnement mobile, la recherche d’information, les médias 
+sociaux, la publicité en ligne, et le commerce électronique. 
+Avec quelques autres comme SAP, IBM, Oracle, Adobe ou 
+Salesforce, elles contrôlent l’informatique d’entreprise et les 
+infrastructures de la société de l’information. Leur emprise sur 
+les données et les services de base renforce leur position dominante.
+
+
+
+
+Face à cette situation, les structures de l’ESS sont confrontées 
+à un sérieux dilemme. En interne, elles ont besoin d’outils informatiques 
+efficaces. En externe, elles peuvent difficilement 
+se passer des plates-formes de communication numérique, 
+notamment parce que leurs clients les ont massivement adoptées. 
+Dans les deux cas, le marché les pousse à recourir aux 
+services des géants du numérique, alors même que les valeurs 
+de ces derniers sont en opposition profonde avec les principes 
+fondateurs de l’ESS.
+
+Pourtant, des acteurs construisent depuis des années des 
+solutions alternatives dont la philosophie est beaucoup plus 
+proche des valeurs de l’ESS. Généralement basées sur les principes 
+du logiciel libre, elles permettent d’envisager une autre 
+transformation numérique, plus solidaire, plus sociale, plus 
+humaine, plus locale et même plus écologique. Ces solutions 
+manquent cependant de visibilité et l’objectif de ce guide est 
+de contribuer à les faire connaître, notamment auprès des acteurs 
+de l’ESS en Suisse romande.
+
+Ce guide s’appuie sur le travail de bachelor de M. Safa Shams, 
+un mémoire rédigé dans le cadre de l’examen final à la Haute 
+École d’Ingénierie de Gestion du canton de Vaud en vue de 
+l’obtention du diplôme de Bachelor of Science HES-SO en Ingénierie 
+des médias.
+
+
+
+Première 
+Partie
+
+Une autre façon 
+
+de communiquer
+
+
+
+À qui s’adresse 
+ce guide?
+
+ Ce guide s’adresse d’abord aux entreprises faisant 
+partie de l’Économie Sociale et Solidaire. Il leur fournit les clés 
+pour comprendre les enjeux de la communication numérique 
+et la mettre en oeuvre avec des outils et des partenaires privilégiant 
+l’humanité et la solidarité au profit.
+
+Au sein des organisations, le guide pourra aussi bien intéresser 
+les personnes en charge de la gestion générale d’une structure 
+que celles responsables de sa communication. Ce guide ne demande 
+pas de connaissance technique particulière et propose 
+de nombreux liens pour découvrir les solutions présentées de 
+façon plus approfondie.
+
+Il peut aussi permettre à d’autres acteurs, non affiliés au mouvement 
+des ESS, par exemple des associations, des ONG ou des 
+TPE/PME, de faire évoluer leurs pratiques numériques vers des 
+solutions plus en phase avec leurs valeurs.
+
+
+
+Ce guide est aussi ouvert à toute personne souhaitant explorer 
+cette thématique et découvrir comment développer une communication 
+numérique durable.
+
+Il s’articule en deux parties :
+
+• Soyons conscients du pouvoir que nous donnons aux 
+outils numériques que nous utilisons quotidiennement.
+• Devenons acteurs d’une communication numérique 
+respectueuse de ses utilisateurs et de leurs données, en 
+changeant nos pratiques 
+
+
+Alors, quelle que soit votre expérience avec le digital, ce guide 
+vous donnera les moyens de participer à une transition vers un 
+Internet et une communication plus responsables.
+
+
+
+Découvrir L’economie 
+sociale et solidaire
+
+ Avant d’entrer dans le vif du sujet, il semble nécessaire, 
+pour les non initié·e·s, de comprendre la philosophie de 
+l’Économie Sociale et Solidaire. 
+
+S’inscrivant dans une démarche voisine du développement 
+durable, cette économie a pour ambition de promouvoir la solidarité 
+et le service rendu par rapport au profit dégagé. Ses principaux 
+objectifs sont notamment de mettre l’humain au centre 
+des préoccupations et de respecter l’environnement.
+
+Les acteurs de l’Économie Sociale et Solidaire peuvent se présenter 
+sous de multiples formes juridiques : mutuelles, coopératives 
+ou associations. Certaines structures, comme les sociétés 
+anonymes, les sociétés à responsabilité limitée et les raisons 
+individuelles, peuvent également adhérer aux valeurs de l’ESS. 
+Toutes ces organisations suivent les mêmes principes de fonctionnement 
+à savoir la recherche d’une utilité collective, à but 
+non lucratif ou à but lucratif limité1. Elles sont aujourd’hui présentes 
+dans la plupart des secteurs d’activité et regroupent des 
+structures de taille très diverses.
+
+1 Le modèle à lucrativité limitée ne définit pas un niveau de rentabilité 
+maximum, mais plutôt l’usage qui est fait des profits de l’entreprise. 
+Voir: https://www.apres-ge.ch/node/62187 
+
+
+
+Principes et valeurs de l’ESS
+
+Le fonctionnement de ce type d’organisation est régi par une 
+charte. Cette charte de l’Économie Sociale et Solidaire présente 
+les valeurs et principes qui caractérisent l’identité et pilotent les 
+actions des entreprises faisant partie de l’ESS2. Elle s’articule 
+autour des axes suivants :
+
+1. Bien-être social
+
+
+Cette économie place l’humain au coeur de ses activités. Ainsi, 
+la priorité est donnée à l’utilité sociale et à l’intérêt général plutôt 
+qu’à la recherche du profit.
+
+2. Démocratie participative et responsabilité
+
+
+Chaque structure apporte sa contribution à la société afin d’assurer 
+le développement des personnes et l’intérêt public. De 
+plus, une gouvernance démocratique est appliquée dans l’organisation. 
+Cela signifie que chaque membre dispose d’une 
+voix lors des prises de décision, quel que soit son rôle ou son 
+apport financier. Ce fonctionnement répond à une exigence 
+d’égalité au sein de la société.
+
+3. Écologie
+
+
+Les structures sont essentiellement tournées vers les commerces 
+locaux et sont respectueuses de l’environnement.
+
+2 Source: Charte de l’ESS en région genevoise: 
+
+https://www.itopie.ch/wp-content/uploads/2017/06/Charte_ESS_francais.pdf
+
+
+
+4. Travail
+
+
+Les acteurs de l’ESS visent à être transparents avec leurs 
+membres. Ces derniers font primer l’intérêt public sur les profits 
+économiques. Ils offrent ainsi un cadre de travail agréable, s’efforcent 
+de réduire les écarts de salaire et valorisent les singularités 
+de chaque membre.
+
+5. Cohérence
+
+
+Chaque société cherche à agir de manière cohérente avec les 
+valeurs de l’ESS, afin de garantir la crédibilité et le développement 
+de cette économie.
+
+
+
+Chambres de l’ESS
+
+Des organisations fédèrent les acteurs de l’ESS. En Suisse 
+romande, il existe trois chambres de l’Économie Sociale et 
+Solidaire :
+
+• APRES-VD pour le canton de Vaud :
+http://www.apres-vd.ch/
+• APRES-BEJUNE pour les cantons de Berne, de Neuchâtel 
+et du Jura : https://apres-bejune.ch/
+• APRES-GE pour le canton de Genève, qui est la plus 
+importante : https://www.apres-ge.ch/
+
+
+Les chambres de l’ESS ont pour but de mettre en relation les 
+différents acteurs et actrices de cette économie afin de faciliter 
+les rencontres, les collaborations et les échanges d’expérience. 
+Elles visent également à mettre en place des activités liées au 
+développement et à la valorisation de l’Économie Sociale et 
+Solidaire auprès du grand public et à défendre les intérêts du 
+secteur.
+
+En France, il existe un réseau de 18 Chambres Régionales de 
+l’Économie Sociale et Solidaire (CRESS). Elles sont fédérées au 
+sein d’un Conseil National3. Pour les zones frontalières avec la 
+Suisse romande, se référer à :
+
+• CRESS Auvergne-Rhône-Alpes : 
+http://www.cress-aura.org/
+• CRESS Bourgogne-Franche-Comté :
+https://ess-bfc.org/
+• CRESS Grand Est :
+http://www.cress-grandest.org/
+
+
+3 https://www.cncres.fr
+
+
+
+Objectifs de communication
+
+Dans toute organisation, la communication est un point essentiel. 
+Elle permet notamment de donner une visibilité à la structure 
+et d’entretenir les relations avec ses membres.
+
+Contrairement aux entreprises traditionnelles, dont le modèle 
+économique se base presque uniquement sur des indicateurs 
+financiers, le modèle des acteurs de l’ESS les prend en compte 
+et privilégie d’abord les éléments sociaux et environnementaux.
+
+
+La stratégie de communication des acteurs de l’ESS encourage 
+les rencontres humaines, la participation de chacun·e et le développement 
+des liens sociaux. Les stratégies de communication 
+diffèrent selon les domaines d’activité, mais des objectifs 
+communs et essentiels s’en dégagent :
+
+• Promouvoir l’image, les valeurs ainsi que les engagements 
+sociaux de la structure,
+• Informer, sensibiliser et mobiliser le grand public quant 
+aux actions de la structure,
+• Recruter de nouveaux membres, bénévoles ou adhérents,
+• Collecter des fonds et des dons afin que la structure 
+puisse grandir et avoir un impact plus fort sur la société.
+
+
+L’émergence du numérique a révolutionné les moyens et les 
+approches de la communication d’entreprise, qu’il s’agisse 
+des entreprises de l’économie traditionnelle ou des entreprises 
+sociales et solidaires. Cependant, ces nouvelles approches ne 
+sont pas toujours alignées avec les valeurs de l’ESS, notamment 
+en termes de transparence, de confiance et de sécurité. 
+Dans un premier temps, il s’agit d’explorer les pratiques et dérives 
+des géants numériques et de saisir le décalage entre leurs 
+valeurs et les principes qui régissent l’ESS.
+
+
+
+L’ESS face aux 
+géants numériques
+
+ Contre qui se bat-on au juste, et pourquoi ? Contre 
+ceux que l’on nomme les géants numériques, et pour bien des 
+raisons.
+
+Vous avez sans doute déjà entendu parler des GAFAM. Cet 
+acronyme désigne cinq des plus importantes multinationales 
+du domaine du numérique : Google, Apple, Facebook, Amazon, 
+et Microsoft. Ces firmes ont un pouvoir financier colossal, 
+puisque début juillet 2020, leur capitalisation boursière 
+combinée représentait plus de 6’300 milliards de dollars4. 
+Leur puissance n’est pas uniquement financière. Leurs outils 
+numériques ont investi notre quotidien et l’influencent. Par 
+exemple, en Europe plus de 90% des recherches sur Internet 
+sont réalisées à partir de Google, et Facebook compte plus de 
+2.6 milliards d’utilisateurs actifs dans le monde5.
+
+4 Ces valeurs boursières fluctuent au gré des marchés financiers. 
+
+5 Le nombre d’utilisateurs de Facebook a atteint un milliard en 2012. Depuis, 
+il n’a cessé d’augmenter. Source: https://www.statista.com/statistics/264810/
+number-of-monthly-active-facebook-users-worldwide/
+
+
+
+Les GAFAM sont les géants du numérique, mais ce ne sont 
+pas les seuls. Il existe bien d’autres entreprises de grande taille 
+fournissant des outils ou services que nous employons tous 
+les jours. Le problème est que l’influence qu’elles exercent sur 
+notre quotidien mène souvent à des abus dont il est important 
+d’être conscient. 
+
+Vie privée et publicité ciblée
+
+Dans le domaine du numérique, la question du respect de la 
+vie privée est centrale et très médiatisée. Google et Facebook 
+mettent à disposition une grande partie de leurs services gratuitement. 
+Leur modèle économique – ainsi que celui de bien 
+d’autres, même beaucoup plus petits – est essentiellement 
+basé sur la publicité et l’exploitation de données personnelles 
+pour cibler la diffusion de publicités. Indirectement, ce sont 
+donc les utilisateurs qui financent ces outils en ligne en visionnant 
+les annonces ou en cliquant sur les publicités. 
+
+De plus, le modèle économique du capitalisme de surveillance 
+est étroitement lié à la publicité et représente un «fabuleux» levier 
+de croissance de la consommation. Or, nous savons que 
+cette croissance-là se révèle également nuisible pour l’environnement, 
+que ce soit en matière de consommation de ressources 
+non-renouvelables, d’énergie fossile ou de pertes de 
+biodiversité.
+
+«
+
+»
+
+Vous êtes ce que vous partagez.
+
+C.W. Leadbeater, 
+
+We Think: The Power of Mass Creativity, 2009
+
+
+
+POUR ALLER PLUS LOIN
+
+Au fond, une donnée, qu’est-ce que c’est ?
+
+Par « données », on entend un ensemble de caractères ou de valeurs 
+obtenus, par exemple, grâce à des observations, des mesures et des 
+enquêtes. Elles décrivent une information, sous une forme spécifique 
+destinée à être traitée. Les données recueillies et structurées sont systématiquement 
+saisies et consignées dans des fichiers ou des bases de 
+données. 
+
+Et une métadonnée?
+
+Les métadonnées sont des données sur les données. Elles les décrivent 
+pour leur donner du sens et ainsi permettre une analyse plus détaillée. Par 
+exemple, une donnée peut être accompagnée de la date et du lieu où 
+elle a été recueillie.
+
+Et une donnée inférée?
+
+Les données inférées sont des données déduites des informations fournies 
+par l’utilisateur. Par exemple, lorsqu’une image est postée sur les 
+réseaux sociaux, des algorithmes peuvent analyser son contenu sémantique 
+et y associer automatiquement des données descriptives.
+
+
+
+Quelles données sont récoltées, et à quoi 
+servent-elles ?
+
+À titre d’exemple, voici quelques informations que Google peut 
+recueillir sur ses utilisateurs6 :
+
+• Nom, photo, adresse e-mail et numéro de téléphone renseignés 
+par les personnes ayant un compte Google
+• Identifiant de l’appareil
+• Informations sur l’utilisation des services (vidéos, images 
+consultées, quand et comment) et l’historique de navigation
+• Les requêtes de recherches (sur Google search, Youtube, 
+Maps, etc.)
+• La liste des contacts et les informations associées
+• L’adresse IP depuis laquelle les services sont utilisés
+• La localisation des appareils, définie à partir de l’adresse 
+IP, de signaux GPS, des points d’accès WiFi et des antennes-
+relais téléphoniques à proximité
+• D’autres informations collectées par les partenaires de 
+l’entreprise
+
+
+Les données concernant nos pratiques de consommation 
+et de navigation permettent de déduire un grand nombre 
+d’informations. Après les avoir traitées, les géants du web les 
+proposent aux annonceurs pour cibler très précisément des 
+campagnes publicitaires. À travers ces mécanismes, les publicitaires 
+orientent nos choix d’achats et peuvent créer de nouveaux 
+besoins. Ce faisant, ils influencent notre libre arbitre.
+
+6 Source: https://gafam.laquadrature.net/#google
+
+
+
+La publicité ciblée ne se limite pas à la communication commerciale. 
+En 2015, le scandale “Cambridge Analytica” a montré que 
+la récolte de données pouvait également servir à des fins politiques. 
+Dans cette affaire, les données de 87 millions d’utilisateurs 
+de Facebook ont été récupérées par l’entreprise afin d’envoyer 
+des messages ciblés pour les élections présidentielles 
+américaines. Elles auraient également influencé la votation 
+du Brexit au Royaume-Uni7 et dans de nombreux autres pays8.
+
+
+À l’été 2020, ce débat se poursuit, notamment à travers la campagne 
+de boycott lancée par de grands annonceurs mécontents 
+de la politique trop permissive de la plate-forme vis-à-vis 
+des publicités politiques, des infox et des incitations à la haine.
+
+
+7 https://www.nextinpact.com/news/106349-retour-sur-scandale-cambridge-
+analytica-et-molle-reponse-facebook.htm
+
+8 https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-
+data-leak-global-election-manipulation
+
+
+
+POUR ALLER PLUS LOIN
+
+Open data
+
+• Le canton de Genève a publié sa Stratégie en matière de libre 
+accès aux données publiques : 
+
+
+https://www.ge.ch/document/strategie-matiere-libre-acces-aux-donnees-publiques-
+administration-genevoise-open-data/telecharger
+
+Scandale Cambridge Analytica 
+
+• Le documentaire The Great Hack de J. Noujaim et K. Amer retrace 
+le scandale en fournissant des témoignages intéressants 
+• Dans son livre Mindf*ck: Inside Cambridge Analytica’s Plot to 
+Break the World, Christopher Wylie, ancien employé chez Cambridge 
+Analytica, raconte le scandale et ses enjeux.
+
+
+
+
+Censure de l’information et bulle de 
+filtrage
+
+La majorité des réseaux sociaux et moteurs de recherches 
+proposent un fil d’actualité personnalisé. Grâce à l’ensemble 
+des données récoltées (historique de navigation, mentions 
+j’aime, partages, interactions sociales, géolocalisation, etc.), ils 
+filtrent l’information afin de fournir un contenu adapté aux préférences 
+de l’utilisateur. Ce phénomène de personnalisation 
+dans lequel l’utilisateur ne voit plus qu’une réalité miroir de ses 
+préférences et le reflet des choix de la plateforme, est appelé 
+« bulle de filtrage ». 
+
+Ainsi, si deux utilisateurs saisissent le même mot-clé dans un 
+moteur de recherche, ils n’obtiendront pas forcément les 
+mêmes résultats. L’information affichée sera choisie en fonction 
+des recherches précédentes, du lieu, de l’appareil utilisé, 
+et bien d’autres variables. Le problème ? L’utilisateur est isolé 
+dans une information personnalisée, ce qui l’enferme toujours 
+plus sur ses propres opinions et restreint son ouverture d’esprit. 
+Si ce fonctionnement peut paraître anodin pour certains, 
+il est néanmoins souvent critiqué puisque considéré comme 
+une forme de censure de l’information. Cet élément prend une 
+importance particulière quand on sait que les réseaux sociaux 
+sont devenus le premier canal d’information des jeunes générations.
+
+
+Logiciels propriétaires
+
+En plus d’être financés par l’exploitation des données utilisateurs, 
+les services et logiciels fournis par les géants numériques 
+sont tous « propriétaires ». Ce terme signifie que l’utilisateur se 
+procure une licence d’utilisation, et non le logiciel en lui-même. 
+
+
+
+Autrement dit, il dispose uniquement de l’autorisation d’utiliser 
+le logiciel. N’ayant aucun accès à son code source, il ne peut 
+ni étudier en détail son fonctionnement interne, ni le personnaliser 
+pour qu’il corresponde précisément à ses besoins, ni le 
+redistribuer. 
+
+De plus, ces outils utilisent généralement chacun un format 
+de fichier également désigné comme « propriétaire ». Ce format 
+n’est pas compatible avec d’autres logiciels, ce qui induit 
+une certaine dépendance de l’utilisateur envers l’outil. A titre 
+d’exemple, le format PSD n’est utilisable qu’avec Adobe Photoshop. 
+La pérennité du format dépend du bon vouloir de l’éditeur 
+et l’utilisateur n’a pas de garantie quant à l’avenir de tel 
+ou tel format, ce qui peut compromettre sa capacité à accéder 
+à ses anciens fichiers (archives). L’éditeur peut décider unilatéralement 
+de ne plus supporter un format et inciter ainsi ses 
+utilisateurs à monter en version (obsolescence programmée 
+numérique). De plus, ces outils étant privés, l’utilisateur ignore 
+si des données personnelles sont envoyées à l’éditeur du logiciel, 
+et à quelles fins ces dernières pourraient être utilisées.
+
+Fermeture de l’écosystème et 
+centralisation des données
+
+La plupart des géants numériques proposent des services très 
+complets et agréables à utiliser. Apple, par exemple, offre un 
+ensemble de services et d’outils qui se connectent très facilement 
+entre eux. Il est cependant souvent très difficile de sortir 
+de ces écosystèmes. Exporter ses données personnelles9 dans 
+le but de les utiliser dans un autre environnement, ou connecter 
+un outil tiers est compliqué, voire impossible. Beaucoup 
+d’utilisateurs sont dissuadés de franchir le pas, et les géants 
+numériques confortent ainsi leurs quasi-monopoles sur leurs 
+secteurs respectifs. 
+
+9 L’article 20 du RGPD (Règlement général sur la protection des données de 
+l’Union européenne), décrit le droit à la portabilité des données. Il permet à 
+l’utilisateur de récupérer l’ensemble de ses données fournies à un service pour 
+les transmettre par exemple à un autre fournisseur de service. Le RGPD est en 
+vigueur depuis le 25 mai 2018.
+
+
+
+De plus, les données personnelles récoltées sont stockées sur 
+des serveurs « cloud » éparpillés un peu partout sur la planète. 
+Or, leur localisation peut les soumettre à des juridictions qui 
+protègent moins les données personnelles que la législation 
+suisse ou européenne. Indépendamment de cet aspect juridique, 
+le couplage entre les données et les services réduit la 
+liberté de l’utilisateur en le liant toujours plus à son fournisseur 
+de services, lequel peut augmenter ses tarifs ou modifier unilatéralement 
+ses conditions en abusant de cette position.
+
+Le recours massifs des géants du numérique aux services 
+cloud a entraîné le développement de gigantesques centres 
+de stockage informatiques, les data centers. Ces infrastructures 
+posent de sérieuses questions écologiques notamment par 
+rapport à leur consommation énergétique. Leur concentration 
+crée aussi des risques importants en matière de cybersécurité.
+
+Monopole et frein à l’innovation
+
+Les géants numériques s’appuient sur leur position dominante 
+pour éliminer leur concurrence. Ces entreprises ont le pouvoir 
+d’acheter n’importe quelle start-up innovante ou structure 
+concurrente, ce qui empêche toute entreprise de se développer 
+dans le même domaine. Elles peuvent aussi déposer des brevets 
+pour interdire la concurrence ou copier des services prometteurs 
+pour s’en approprier les retombées. Les monopoles 
+ou les oligopoles qui découlent de ces pratiques concentrent 
+les profits et portent bien souvent préjudice à l’économie locale. 
+Ce fonctionnement va totalement à l’encontre des valeurs 
+de l’Économie Sociale et Solidaire qui prônent un système démocratique 
+et une économie locale et transparente. 
+
+Alors quelles solutions utiliser afin de mieux maîtriser nos informations, 
+de protéger nos données et nos libertés fondamentales 
+? 
+
+
+
+POUR ALLER PLUS LOIN 
+
+La liste des problématiques qu’aborde ce chapitre n’est pas exhaustive 
+: bien d’autres sont abordées par l’ESS. L’emploi local est un autre 
+exemple illustrant le besoin de s’éloigner des pratiques globalisantes et 
+prédatrices des GAFAM qui ne proposent pas ou très peu de travail local. 
+La question de l’écologie est aussi à creuser, ainsi que les efforts des 
+GAFAM pour récupérer la clientèle que constitue les associations et les 
+ONG.
+
+Capitalisme de surveillance
+
+• The Age of Surveillance Capitalism: The Fight for a Human Future 
+at the New Frontier of Power de Shoshana Zuboff décrit en 
+détail cette nouvelle forme de capitalisme initié par Google. L’essai 
+est disponible uniquement en anglais ici :
+
+
+https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-
+capitalism/9781610395694/
+
+Ecologie
+
+• Guide to Greener Electronics, publié par Greenpeace, analyse les 
+impacts environnementaux des grandes entreprises dans le domaine 
+de l’électronique. 
+
+
+
+
+Maintenant que nous avons passé en revue les dérives 
+de ces géants du numérique, il est temps d’explorer les 
+solutions alternatives. Sur quels principes fonctionnent-elles ?
+
+La principale alternative est le logiciel libre ! Libre, cela veut dire 
+qu’il autorise quiconque à l’utiliser, à le copier, à le modifier et 
+à le redistribuer. Pour être libre, ces outils s’engagent à respecter 
+quatre libertés fondamentales définies par la Free Software 
+Foundation10 :
+
+• Liberté d’exécuter le programme, pour toutes les utilisations;
+• Liberté d’étudier le fonctionnement du programme et de 
+l’adapter à ses besoins;
+• Liberté de redistribuer des copies du logiciel;
+• Liberté d’améliorer le programme et de publier les améliorations 
+apportées.
+
+
+Les logiciels 
+libres c’est quoi?
+
+10 Voir leur site web: https://www.fsf.org/
+
+
+
+Afin de pouvoir adapter le logiciel à ses besoins et de pouvoir 
+y apporter des améliorations, l’accessibilité au code source du 
+programme est exigée. Par conséquent, si un logiciel ne respecte 
+pas une de ces conditions, celui-ci n’est pas considéré 
+comme étant libre.
+
+Il est également important de mentionner que la référence 
+« libre » se rapporte à la liberté de l’utilisateur et non au prix. Il 
+est tout à fait possible de faire du commerce avec ces logiciels, 
+mais en les valorisant à traver un service, par exemple, en proposant 
+des formations ou de la maintenance.
+
+
+
+Ces logiciels apportent de nombreux avantages, en voici 
+quelques uns :
+
+Flexibilité
+
+Le code source de ces logiciels est ouvert. Quiconque ayant 
+des connaissances techniques peut modifier et améliorer le logiciel 
+de base en contribuant à son code. Cette manière coopérative 
+de travailler encourage l’innovation.
+
+Sécurité et fiabilité
+
+La possibilité d’avoir accès au code source permet de le vérifier, 
+et le cas échéant, de détecter puis de corriger rapidement les 
+possibles failles de sécurité et les bogues. Cette transparence 
+garantit leur qualité et une meilleure protection des données 
+personnelles.
+
+Absence de coût
+
+L’atout majeur des logiciels libres est d’ordre économique. Ils 
+permettent d’éviter l’achat ou le renouvellement de licences 
+d’utilisation. Seuls les éléments matériels des systèmes informatiques 
+et les services liés affectent les budgets.
+
+Pérennité
+
+La pérennité des logiciels libres est assurée. Même si la société 
+qui développe le programme fait faillite, n’importe qui peut reprendre 
+le projet et faire revivre le logiciel. Par exemple, OpenOffice 
+a été relancé et amélioré dans LibreOffice. De la même 
+façon, les formats de fichiers libres sont publics et chacun peut 
+développer un logiciel capable de les utiliser.
+
+
+
+En résumé, ces logiciels libres offrent un modèle plus juste que 
+celui proposé par les logiciels propriétaires. En effet, les outils 
+libres prônent la transparence, le partage de connaissance, la 
+liberté d’usage et la diffusion de l’information. Ce modèle se 
+base donc sur le travail participatif d’une communauté, majoritairement 
+bénévole et passionnée, qui collabore afin d’améliorer 
+ce type d’outils.
+
+Différences entre logiciels libres et 
+open source
+
+Nous connaissons à présent le fonctionnement des logiciels 
+libres. Mais alors, y a-t-il une différence avec les outils « Open 
+Source » ? Les notions de « logiciels libres » et « Open Source » 
+sont souvent confondues. Bien que les deux aspects visent à 
+proposer le même type de solutions, une différence fondamentale 
+existe dans leurs valeurs de base.
+
+Pour mieux saisir cette distinction, il est nécessaire de revenir 
+sur l’histoire de ces deux mouvements. Le mouvement du logiciel 
+libre est né au début des années 1980 sous l’impulsion de 
+Richard Stallman. Selon sa conception, un logiciel devait être 
+accessible, ouvert, modifiable et diffusable. Ces logiciels ont 
+été créés pour s’opposer aux logiciels propriétaires dans lesquels 
+seul l’auteur du logiciel est autorisé à apporter des modifications. 
+Avec les logiciels libres, Richard Stallman militait pour 
+la liberté et la justice des utilisateurs de logiciels informatiques.
+
+De ce mouvement se sont détachés des utilisateurs et développeurs 
+qui n’étaient pas complètement en accord avec les 
+principes proposés par Richard Stallman. En 1998, un groupe 
+a décidé de faire la promotion de l’Open Source, qui fut rapidement 
+associé à une idée de performance et de fiabilité.
+
+
+
+Le mouvement du logiciel libre base donc sa philosophie sur 
+des principes moraux, sur la liberté des utilisateurs, la transparence 
+et la sécurité des logiciels. Au contraire, les intérêts de 
+l’Open Source sont davantage axés sur des racines économiques, 
+techniques et de performances11.
+
+Les licences libres
+
+Les logiciels, qu’ils soient libres ou Open Source, sont protégés 
+par des licences leur garantissant les quatre libertés évoquées 
+précédemment. Il existe une multitude de licences dites 
+« libres » qui précisent les droits et devoirs de chacun. Celles-ci 
+reposent sur un droit d’auteur inversé. Au lieu de restreindre, le 
+système se veut permissif.
+
+Parlons du concept de Copyleft créé par la Free Software Foundation12. 
+Elle est la source des licences libres les plus strictes. 
+Elle permet d’assurer les libertés des utilisateurs et des développeurs 
+de logiciels sous ces licences. En effet, cette méthode 
+interdit d’utiliser un code source Copyleft dans un logiciel 
+propriétaire. Elle déclare également qu’un logiciel redistribué, 
+avec le code source modifié ou non, doit aussi octroyer la liberté 
+de le copier et de le modifier.
+
+La principale licence utilisée pour la publication de logiciels 
+libres est la licence publique générale GNU version 3 (GNU 
+GPL). C’est l’utilisation de cette licence que préconise la Free 
+Software Foundation lors de la création d’un logiciel libre. 
+
+11 A lire, l’article de GNU: En quoi l’open source perd de vue l’éthique du logiciel 
+libre. https://www.gnu.org/philosophy/open-source-misses-the-point.fr.html
+
+12 Voir https://www.gnu.org/licenses/copyleft.en.html
+et https://www.copyleft.org/
+
+
+
+L’utilisateur a alors la liberté de modifier le code et de le redistribuer, 
+sous condition qu’il soit ensuite également sous licence 
+GPL. Elle garantit donc qu’un logiciel libre ne peut être modifié 
+puis redistribué sous forme d’un logiciel propriétaire.
+
+Au-delà des logiciels libres
+
+Le mouvement du « libre » ne s’arrête pas aux logiciels. En effet, 
+cette philosophie de partage et de collaboration influence 
+d’autres domaines. Aujourd’hui, des licences libres existent 
+dans le domaine artistique (creative commons), matériel (open 
+hardware) ou encore des données publiques (Open data). 
+L’exemple de l’encyclopédie collective Wikipedia est l’une 
+des oeuvres libres les plus célèbres. On peut également citer 
+OpenStreetMap, un projet de cartographie qui met à disposition 
+des cartes sous licence libre ou encore Dogmazic qui permet 
+d’écouter et de télécharger de la musique libre.
+
+En 2002, l’association Creative Commons a mis en place six 
+licences types permettant aux auteurs de mettre leurs créations 
+au service de la communauté. Certaines d’entre elles permettent 
+une liberté de réutilisation absolue de ces communs 
+numériques et donnent la possibilité aux créations d’être utilisées, 
+modifiées, copiées et redistribuées. D’autres sont plus 
+restrictives et n’autorisent pas un usage commercial, ni la modification 
+de l’oeuvre. Ces licences utilisent le copyright et le droit 
+d’auteur pour permettre de réutiliser des oeuvres en offrant un 
+cadre juridique reconnu et en accord avec les valeurs soutenues13.
+
+
+13 Pour comprendre plus en détails ce que sont les licences Creative Commons: 
+https://creativecommons.fr/multmedia-2/
+
+
+
+La culture du libre ne s’arrête donc pas à l’informatique, et inspire 
+la société toute entière. Il permet à quiconque d’agir, de 
+participer de façon dynamique à la création et l’adaptation des 
+contenus et d’outils qui seront utiles à tous. Elle constitue une 
+alternative éthique et fiable au modèle propriétaire reposant 
+uniquement sur des restrictions.
+
+POUR ALLER PLUS LOIN
+
+Sobriété numérique
+
+Plusieurs mouvements prônant la sobriété numérique ont vu le jour. Inscrits 
+dans une démarche écologique, ces courants dépassent le mouvement 
+du libre, en réfléchissant à la réduction des impacts du numérique 
+sur l’environnement. Ils visent également à réduire notre dépendance 
+individuelle aux outils numériques de façon à lutter contre leurs effets néfastes. 
+Les 3 livres suivants traitent de ce sujet:
+
+• Sobriété numérique de Frédéric Bordage (2019) 
+• Cyber-minimalisme de Karine Mauvilly (2019)
+• La face cachée du numérique - Réduire les impacts du numérique 
+sur l’environnement, édité par l’ADEME (2019)
+
+
+
+
+Les entreprises de l’économie sociale et solidaire 
+rencontrent des difficultés pour mettre en place une communication 
+correspondant à leurs valeurs. Afin d’assurer leur visibilité, 
+la plupart de ces structures continuent à utiliser les outils 
+des géants numériques. Alors, quelles sont ces difficultés qui 
+freinent l’utilisation d’outils plus libres ?
+
+Les difficultés 
+rencontrées par l’ESS
+
+«
+
+Je suis seule à la communication donc, voilà, 
+ce sont les outils les plus répandus et que je 
+sais utiliser et je n’ai pas le temps de chercher 
+d’autres outils.
+
+Caroline, chargée de communication et de clientèle pour une 
+plateforme de création et de production couture.
+
+»
+
+
+
+Le budget limité
+
+Ces structures, généralement de taille modeste, manquent de 
+temps pour réaliser leur communication. La nécessité de produire 
+régulièrement du contenu afin d’assurer sa visibilité est 
+un défi important pour les petites structures. Ayant un budget 
+limité, il est fréquent qu’une seule personne s’occupe du marketing, 
+parfois en plus d’autres responsabilités. Il arrive donc 
+qu’aucun collaborateur ne soit concrètement engagé pour la 
+communication, et que ces sociétés n’aient pas le temps de 
+chercher de nouvelles solutions de communication. 
+
+Ce budget limité est un obstacle à toute révolution communicationnelle. 
+De manière générale, ces entreprises n’ont pas de 
+spécialistes dans leurs rangs et ne parviennent pas à engager 
+du personnel supplémentaire qui pourrait s’atteler à ces tâches. 
+En outre, elles peinent à dégager du temps pour réfléchir à de 
+nouvelles solutions, et continuent d’utiliser les outils les plus 
+répandus, tels que ceux des GAFAM. 
+
+«
+
+Nous, on utilise que les outils de base 
+parce qu’on n’a pas le temps d’en 
+chercher d’autres et puis pour l’instant ça 
+répond assez à nos besoins .
+
+Caroline,
+
+ Coordinatrice d’un événement cinématographique à Genève
+
+»
+
+
+
+Les connaissances limitées du sujet
+
+Ce manque de temps génère mécaniquement un manque de 
+connaissance du sujet. Les logiciels libres n’ont pas assez de 
+visibilité en comparaison avec les solutions commerciales (qui 
+elles bénéficient d’une notoriété développée avec un marketing 
+et une publicité importante). Les acteurs de l’ESS ne savent 
+donc pas réellement quelles solutions alternatives existent afin 
+de développer une communication numérique en accord avec 
+leurs valeurs. Ce guide répond précisément à ce besoin.
+
+«
+
+C’est à terme une volonté de notre 
+association, mais moi je n’ai ni les 
+compétences, ni les personnes au sein de 
+l’association pour développer des outils et 
+pouvoir répondre à l’utilisation massive de 
+soixante collaborateurs.
+
+Frédéric, coordinateur dans une 
+
+association pour la protection de l’eau 
+
+»
+
+«
+
+C’est vrai qu’à part Framasoft, on ne 
+connaît pas vraiment d’autres alternatives 
+libres pour remplacer les outils qu’on 
+utilise d’habitude.
+
+Nadia,chargée de communication 
+
+pour une chaîne de magasins éthiques 
+
+»
+
+
+
+La connaissance des dangers des pratiques des GAFAM est 
+encore souvent insuffisante. L’utilisation des données personnelles, 
+la censure ou encore les abus de pouvoir ne sont pas 
+réellement des problématiques connues ou comprises. Il est 
+donc important de faire la lumière sur ces pratiques afin que 
+ces éléments soient pris en compte dans les choix effectués 
+par les acteurs de l’ESS.
+
+Les habitudes
+
+Les solutions proposées par les géants numériques se sont imposées 
+dans les usages des internautes. Avec le temps, elles 
+se sont ancrées dans les habitudes des individus et des entreprises, 
+au point qu’il est devenu difficile de s’en détacher, en 
+particulier pour les raisons suivantes :
+
+• Ces outils sont faciles à utiliser,
+• Ils sont intégrés entre eux et interdépendants,
+• Ils sont déjà utilisés, et donc connus et maîtrisés.
+
+
+ L’effort à fournir pour amorcer un changement demande donc 
+du temps et un engagement à la fois individuel et collectif au 
+sein des structures composant l’ESS. 
+
+«
+
+Je pense que c’est difficile de s’en 
+passer, mais je pense que c’est surtout 
+une question de pratique, d’habitude.
+
+
+Robert., fondateur et coordinateur 
+
+d’une coopérative de partage d’objets
+
+»
+
+
+
+L’audience
+
+Les réseaux sociaux tels que Facebook, Instagram, Twitter ou 
+encore LinkedIn offrent une vitrine promotionnelle inégalable. 
+Leur gratuité et leur forte popularité les rendent quasiment 
+indispensables, ou du moins difficilement substituables dans 
+l’application d’une stratégie de communication numérique. 
+Les alternatives existent, mais leur audience est moindre. Etant 
+donné que le but d’une stratégie de communication basée sur 
+les réseaux sociaux est d’augmenter sa visibilité (même si le 
+nombre d’utilisateur ne garantit pas la visibilité organique, laquelle 
+a par ailleurs chuté ces dernières années, poussant les 
+entreprises à devoir investir des budgets publicitaires pour être 
+réellement visible sur les réseaux sociaux), le nombre d’utilisateurs 
+de leurs plates-formes est un grand atout. Ainsi, si les alternatives 
+existent, elles sont bien moins connues et leur base 
+utilisateur est moins attractive pour la communication des entreprises. 
+L’effet de réseau qui a permis le succès des géants 
+digitaux joue ici en sens inverse, contre les acteurs émergents.
+
+«
+
+Il est difficile de ne pas être présents 
+sur les réseaux sociaux principaux pour 
+l’audience qu’ils offrent, mais nous 
+sommes aussi présents sur Diaspora*.
+
+Céline, co-responsable d’un organe de communication
+
+»
+
+
+
+Cependant, rien n’empêche d’être présents à la fois sur les 
+grandes plateformes et sur les réseaux sociaux alternatifs, tels 
+que Diaspora*14. De cette manière, ces solutions libres deviendront 
+plus populaires, ce qui aura pour effet d’attirer de plus en 
+plus d’utilisateurs. Un renversement de popularité est possible ! 
+
+Les possibilités publicitaires des grands médias sociaux répondent 
+aussi aux besoins des campagnes de notoriété de 
+certains acteurs de l’ESS. Ce type d’offre n’est pas forcément 
+disponible dans les environnements alternatifs, ce qui peut en 
+constituer une limite.
+
+«
+
+Avec Diaspora*, il y a d’autres valeurs 
+qu’avec Facebook. C’est pour cela qu’on est 
+présent dessus, mais il n’y a pas une grosse 
+activité là-dessus. Du coup, le problème, 
+c’est qu’évidemment avec la politique de 
+Facebook on n’y adhère pas, mais aujourd’hui 
+pour être connu et créer de la visibilité, c’est 
+malheureusement la seule solution.
+
+Charlotte, coodinatrice pour un 
+
+festival pour le développement durable
+
+»
+
+
+14 Voir la fiche-outils Diaspora* p.75.
+
+
+
+Mais alors, comment surmonter ces défis ? Il est difficile 
+de trouver des solutions précises qui s’adaptent à toutes 
+les formes d’activité et à tous les domaines dans lesquels 
+opèrent les acteurs de l’ESS. Les solutions globales évoquées 
+ci-après permettent néanmoins de s’orienter et d’avancer vers 
+une démarche durable. 
+
+Quelques solutions
+
+
+
+S’informer, informer et se former
+
+Le point de départ consiste à s’informer sur le numérique et 
+sur les dangers liés aux GAFAM. Il est nécessaire de prendre 
+conscience de l’utilisation des données personnelles à des fins 
+commerciales et de comprendre pourquoi les logiciels libres 
+sont en accord avec les valeurs de l’ESS. Une fois cette prise 
+de conscience effectuée, il convient de pouvoir découvrir et se 
+former à l’utilisation de ces outils. 
+
+Plusieurs organismes proposent des services afin d’atteindre 
+ces objectifs :
+
+Framasoft est sans doute le plus connu en Suisse 
+romande et en France, grâce à son projet « Dégooglisons 
+Internet ». Cette initiative a pour but 
+de proposer une panoplie d’alternatives libres aux 
+solutions des géants numériques et en particulier 
+de Google. L’association met à disposition plus 
+d’une trentaine de services qui sont détaillés dans 
+une fiche-outil15. Elle tient également un blog sur 
+ce sujet et organise des événements afin de faire 
+découvrir au grand public les logiciels libres et les 
+dangers liés aux GAFAM.
+
+April est une association qui promeut et défend 
+les logiciels libres. Elle a notamment pour objectif 
+de sensibiliser les différentes parties de la société 
+aux problèmes liés aux logiciels propriétaires et 
+à la sécurité informatique. L’association est très 
+active et organise de nombreux évènements et 
+conférences. Elle accompagne également des 
+structures souhaitant entreprendre une transition 
+vers les logiciels libres. L’association a rédigé le 
+Guide Libre Association16, qui présente des logiciels 
+libres utiles pour les associations. 
+
+
+15 Voir fiche-outil de Framasoft p.108
+
+16 Guide Libre Association, voir http://guide.libreassociation.info/
+
+
+
+Etikya est une entreprise qui sensibilise, 
+informe et éduque autant le grand public 
+que les acteurs du milieu associatif sur les 
+problèmes liés à la sécurité et à la sphère privée 
+sur internet. Elle propose divers ateliers, 
+conférences et formations liés à ce sujet en 
+Suisse et en France. Elle tient également un 
+blog et anime une émission de radio. L’une 
+de ses missions phare est l’accompagnement 
+de structures désireuses d’utiliser des 
+moyens de communication éthiques. Enfin, 
+Etikya a publié un livre numérique, Libre et 
+humain à l’ère numérique, qui permet de découvrir 
+pourquoi et comment protéger sa vie 
+privée17. 
+
+itopie est une société coopérative à but 
+non-lucratif basée à Genève. Elle se bat pour 
+une informatique libre, éthique, durable et 
+citoyenne. itopie propose toute une palette 
+de services à sa clientèle, comme la gestion 
+de parcs informatiques, la réparation d’ordinateurs, 
+la vente d’ordinateurs revalorisés de 
+gamme pro et la formation dans les logiciels 
+libres18. La coopérative est engagée dans 
+l’Économie Sociale et Solidaire de Genève, 
+fait la promotion des logiciels libres, encourage 
+la relocalisation de l’économie et mène 
+des actions de sensibilisation sur les risques 
+induits par la concentration des acteurs du 
+numérique dans le monde (GAFAM et affiliés).
+
+
+
+17 Libre et Humain à l’ère d’internet, par Héloïse Pierre & Amélie Delalain, aux 
+éditions Esprit Créateur / Etikya, https://etikya.fr/produit/libre-et-humain-a-lere-
+dinternet/
+
+18 A découvrir sur https://www.itopie.ch.
+
+
+
+La Revue Durable19 est une revue à parution 
+semestrielle dont l’objectif est de défendre des 
+valeurs de durabilité depuis 2002. Abordant 
+différents domaines sociétaux (biodiversité, 
+énergie, urbanisme, consommation, etc.), elle 
+donne les clés de compréhension, ainsi que 
+l’envie d’agir pour une société plus solidaire 
+et écologique. Ses deux derniers numéros 
+(été-automne 2019 et printemps-été 2020) 
+sont consacrés aux effets nuisibles du capitalisme 
+de surveillance.
+
+POUR ALLER PLUS LOIN 
+
+Données personnelles
+
+• La Quadrature du Net propose le site Contrôle tes données pour 
+informer sur les problèmes liés aux GAFAMs et à la protection des 
+données : https://controle-tes-donnees.net
+• Le site Social Cooling dénonce le Big Data et ses conséquences 
+sur le comportement social : https://socialcooling.fr/
+• Dans Surveillance:// les libertés au défi du numérique, comprendre 
+et agir, Adrienne Charmet explique et conseille sur les 
+problèmes liés au numérique : https://cfeditions.com/surveillance/
+• Le Guide de survie des aventuriers d’Internet v2, écrit par l’association 
+CECIL (Centre d’Études sur la Citoyenneté, l’Informatisation 
+et les Libertés) et la LDH (Ligue des Droits de l’Homme) fait 
+des recommandations pour préserver sa liberté numérique.
+
+
+
+19 voir https://www.larevuedurable.com/fr/
+
+
+
+Communiquer, partager et 
+convaincre
+
+Une fois informé et formé, le but est de partager ce savoir et ses 
+convictions autour de soi, afin que son entourage et ses collègues 
+comprennent également l’importance de ces enjeux. 
+Cela permet d’agrandir la communauté entourant les logiciels 
+libres. 
+
+Prenons les réseaux sociaux les plus connus, comme Twitter ou 
+Facebook. Ces outils offrent une audience massive et sont assez 
+simples d’utilisation. Leur domination écrase toute alternative. 
+Les réseaux sociaux éthiques, même s’ils sont faciles d’utilisation, 
+ergonomiques et aboutis, manquent d’utilisateurs et 
+ne peuvent rivaliser face à l’audience de Facebook ou Twitter. 
+Un travail de persuasion et d’incitation est indispensable pour 
+que la communauté abonnée sur les plateformes éthiques se 
+développe et prenne une importance telle que l’on puisse se 
+passer des géants du web.
+
+Pour l’association, on a Facebook et je 
+préférerais être sur les réseaux libres, 
+mais on n’y a pas la même audience 
+donc l’idée c’est de convaincre les gens 
+à vous suivre sur d’autres réseaux, mais 
+ça prend du temps.
+
+Frédéric, coordinateur dans une 
+
+association pour la protection de l’eau 
+
+«
+
+»
+
+
+
+Cette démarche ne s’arrête pas aux réseaux sociaux ni aux 
+logiciels libres, mais peut s’étendre à toute la philosophie qui 
+entoure le « libre ». Chacun peut à son échelle et à sa façon 
+promouvoir ce type de solutions, partager ses connaissances, 
+convaincre ses partenaires, et contribuer ainsi à faire avancer 
+ce mouvement. C’est par ce type de démarche individuelle et 
+collective que nous pourrons ainsi nous libérer des géants numériques 
+et garantir notre liberté. 
+
+A titre d’exemple, il est possible d’imposer l’usage d’une solution 
+libre dans un projet ou un appel d’offres. L’Etat peut aussi 
+jouer un grand rôle dans ce domaine en privilégiant des solutions 
+libres, notamment parce qu’elles lui garantissent une 
+meilleure souveraineté numérique et dynamisent l’économie 
+locale.
+
+
+
+Co-créer
+
+Les phases de compréhension, de formation et de partage ne 
+sont que les premières étapes. L’idéal serait de contribuer à co-
+créer des solutions libres et éthiques qui permettent de remplir, 
+non seulement toutes les exigences en termes de communication 
+numérique, mais également de satisfaire tous les besoins 
+informatiques et numériques.
+
+L’association Colibris représente un excellent exemple. Ce 
+mouvement qui vise à construire une société écologique et humaine, 
+a créé ses propres outils à partir de logiciels libres. Un 
+éditeur de texte, un outil de sondage, des wikis, un logiciel de 
+visioconférence ainsi qu’une messagerie sont ainsi proposés 
+en libre-service à leur communauté20.
+
+Cependant, pour parvenir à co-créer, il est nécessaire de trouver 
+des fonds pour financer ces projets. L’Etat peut subventionner 
+ce type de démarche. En Suisse, plusieurs cantons dont 
+ceux de Genève, Vaud, Neuchâtel et Fribourg ont mis en place 
+un plan d’action visant à promouvoir le développement durable 
+: l’Agenda 21.
+
+
+20 https://www.colibris-outilslibres.org/
+
+
+
+Les demandes de subventions sont surtout réservées aux structures 
+à but non lucratif ou à lucrativité limitée qui contribuent à 
+l’économie locale de leur région. Ces subventions peuvent être 
+demandées pour différents domaines22 :
+
+• L’acquisition d’une prestation ou d’un bien ;
+• La réalisation d’un projet spécifique ;
+• La mise en oeuvre d’une activité particulière ;
+• Une contribution ponctuelle au fonctionnement de l’organisation 
+requérante.
+
+
+Elles doivent répondre à trois thématiques :
+
+• La promotion de l’égalité entre tous et toutes les habitant
+·e·s, sans distinction de genre, d’orientation sexuelle 
+ou d’origine et la valorisation de la diversité ;
+• La promotion d’une économie locale et durable (tissu 
+économique local, agriculture de proximité, alimentation 
+durable, économie sociale et solidaire) ;
+• L’éducation et la sensibilisation au développement durable.
+
+
+Ces subventions peuvent compléter des démarches bénévoles 
+ou des approches de financement participatif.
+
+«
+
+Un Agenda 21 est un carnet de route pour le 
+21e siècle, qui permet à toute collectivité 
+locale de se fixer des objectifs de développement 
+durable et de les réaliser. 21
+
+»
+
+21 Source : https://frama.link/pcyLR6GC, inspiré des indications présentes sur 
+le site internet de l’état de Genève: 
+https://www.ge.ch/document/loi-action-publique-vue-developpement-
+durable-agenda-21
+
+22 Liste tirée du formulaire de subvention de l’Etat de Genève : 
+
+https://frama.link/zAHUFG1m
+
+
+
+Deuxième 
+Partie
+
+Des outils pour agir
+et devenir plus libre
+
+
+
+Dans cette deuxième partie, une sélection 
+d’outils libres et éthiques vous est proposée. Loin 
+de former une liste exhaustive, cet ensemble doit 
+vous permettre de faire vos premiers pas dans le 
+monde du libre et de vous affranchir de l’emprise 
+des géants numériques. 
+
+
+
+Créer 
+son 
+site 
+web
+
+Le site web est le socle d’une communication 
+numérique efficace. Il permet à vos membres et 
+clients d’obtenir les informations essentielles 
+concernant votre organisation et ses activités.
+
+Pour le réaliser, le mettre en ligne et le gérer, de 
+nombreux outils et services sont nécessaires.
+
+
+
+WordPress
+
+WordPress a été créé en 2003 par Matthew Mullenweg. Au fil des 
+années, il est devenu l’outil de gestion de site web le plus répandu 
+au monde. Gratuit, il dispose d’un très grand nombre de thèmes graphiques 
+et d’extensions, par exemple pour l’e-commerce. Le logiciel 
+est soutenu par une large communauté et il existe un grand nombre 
+de forums et de sites d’aide à son sujet. Une version commerciale hébergée 
+est proposée sur le site WordPress.com
+
+
+GNU/Linux, Mac OS, Windows
+
+Automattic
+
+Sous licence GPL v3
+
+5.4 (31 mars 2020)
+
+https://wordpress.org
+
+Système de gestion de contenu
+
+Domaine :
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son site web
+
+Interface de WordPress
+
+54
+
+
+
+Joomla!
+
+Joomla! a vu le jour en 2005. Il a été créé à partir du code source de 
+Mambo, un autre outil de gestion de contenus. Comme WordPress, la 
+plateforme intègre de nombreuses fonctionnalités de base et peut être 
+étendue. Joomla! permet de créer un simple site vitrine ou des sites 
+plus complexes en intégrant par exemple des services e-
+commerce.
+
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+Sous licence GPL v3
+
+3.9.19 (2 juin 2020)
+
+https://www.joomla.fr
+
+Domaine :
+
+Système de gestion de contenu
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son site web
+
+Interface de Joomla!
+
+55
+
+
+
+TYPO3
+
+Typo3, créé en 1997 est un système de gestion de contenu. Il dispose 
+de toutes les fonctionnalités de base d’un CMS et se complète selon 
+les besoins par de nombreuses extensions développées par une communauté 
+active. 
+
+
+GNU/Linux, Mac OS, Windows
+
+Kasper Skårhøj
+
+Sous licence GNU GPL
+
+9.5.13 (17 décembre 2019)
+
+https://typo3.org
+
+Domaine :
+
+Système de gestion de contenu
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son site web
+
+Interface de Typo3
+
+56
+
+
+
+Drupal
+
+La première version de Drupal est sortie en 2001. L’application est très 
+puissante et complète de base. À cela vient s’ajouter une très grande 
+quantité de plugins et de thèmes. Drupal est un peu plus complexe 
+d’utilisation que ses concurrents, mais également plus puissant. Ce 
+CMS est utilisé par des entreprises moyennes à grandes dont les besoins 
+sont avancés. Il dispose aussi d’extensions e-commerce.
+
+
+GNU/Linux, Mac OS, Windows
+
+Dries Buytaert
+
+Sous licence GPL v3
+
+8.8.4 (18 mars 2020)
+
+https://www.drupal.org
+
+Domaine :
+
+Système de gestion de contenu
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son site web
+
+Interface de Drupal
+
+57
+
+
+
+C.H.A.T.O.N.S
+
+L’initiative a été lancée en 2016 par l’association Framasoft. 
+C.H.A.T.O.N.S pour Collectif d’Hébergeurs Alternatifs, Transparents, 
+Ouverts, Neutres et Solidaires a pour but de permettre aux internautes 
+de ne pas entreposer leurs données personnelles dans les serveurs 
+centralisés des géants du web. Le site se présente sous forme de carte 
+où chaque internaute peut chercher le service qu’il désire à proximité 
+de son lieu d’habitation.
+
+
+Framasoft
+
+https://chatons.org/fr
+
+Infomaniak
+
+Basée à Genève, Infomaniak propose une large palette de services 
+d’hébergement web, mail, audio et vidéo, ainsi que des outils pour la 
+création de sites internet et des services de stockage et de transferts 
+de fichiers. Les datacenters d’Infomaniak sont basés en Suisse et très 
+performants. La société s’inscrit dans une démarche écologique.
+
+
+Infomaniak Entertainment
+
+https://www.infomaniak.com/fr
+
+Domaine :
+
+Hébergement
+
+Éditeur : 
+
+Hébergement
+
+Domaine :
+
+Créer son site web
+
+Éditeur : 
+
+58
+
+
+
+Matomo
+
+Principal concurrent libre à Google Analytics, ce logiciel analytique 
+se décline en deux versions : l’une payante, Matomo Cloud et l’autre 
+gratuite, Matomo On-Premise. Facile d’utilisation, 
+il permet d’analyser 
+le trafic du site, le comportement des visiteurs, la localisation des visiteurs, 
+etc. Il bénéficie également de fonctionnalités qui ont pour but 
+de protéger la sphère privée des visiteurs. 
+
+AWstats, également sous license GPL v3, est un autre outil intéressant 
+pour l’analyse d’accès aux serveurs web. 
+
+
+Google Analytics
+
+GNU/Linux, Mac OS, Windows
+
+Matomo
+
+Sous licence GPL v3
+
+3.13.6 (5 juin 2020)
+
+https://matomo.org
+
+Domaine :
+
+Outils analytiques
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface de Matomo
+
+59
+
+
+
+La communication numérique des entreprises sociales et solidaires
+
+60
+
+
+
+Créer 
+son 
+contenu
+
+Les géants du numériques proposent de nombreux 
+outils de création de contenu. Même s’ils sont 
+payants, ils sont très populaires, bien que des alternatives 
+libres et gratuites existent.
+
+
+
+LibreOffice
+
+LibreOffice est une suite bureautique dérivée d’OpenOffice. C’est une 
+excellente alternative libre à la suite Office 365 de Microsoft.
+
+Ce logiciel libre est composé de plusieurs modules : éditeur de texte, 
+tableur, outil de présentation, gestionnaire de base de données ou encore 
+interface de dessin. Il est possible d’y ajouter des extensions afin 
+d’en étendre les fonctionnalités.
+
+
+Office 365 de Microsoft
+
+GNU/Linux, Mac OS, Windows
+
+The document Foundation
+
+Sous licence MPL 2.0
+
+6.4.4 (14 mai 2020)
+
+https://www.libreoffice.org
+
+Outils de création de contenu
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de LibreOffice
+
+62
+
+
+
+OpenOffice
+
+OpenOffice.org a été créé en octobre 2000 par Sun Microsystems. 
+Racheté par la suite par Oracle, ce projet a été cédé en 2011 à 
+l’Apache Foundation qui continue son développement depuis. Tout 
+comme LibreOffice qui faisait partie du même projet jusqu’en 2011, 
+OpenOffice (ou Apache OpenOffice) est une suite bureautique. 
+
+
+Microsoft Office
+
+GNU/Linux, Mac OS, Windows
+
+Apache Software Foundation
+
+Sous licence Apache V2
+
+4.1.7 (21 septembre 2019)
+
+https://www.openoffice.org/fr
+
+Domaine :
+
+Outils de création de contenu
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface d’OpenOffice
+
+63
+
+
+
+GIMP
+
+GIMP (GNU Image Manipulation Program) est un logiciel de traitement 
+d’images. Il est considéré comme le concurrent libre de Photoshop. 
+GIMP peut même accueillir des « greffons », des extensions qui 
+permettent 
+d’élargir encore plus ses capacités graphiques. Au bénéfice 
+d’une forte communauté, beaucoup de tutoriels et pages d’aide 
+sont disponibles en ligne afin de mieux maîtriser le logiciel.
+
+
+Adobe Photoshop
+
+GNU/Linux, Mac OS, Windows
+
+Eliot Berriot
+
+Sous licence GPL v3 et LGPL v3
+
+2.10.20 (11 juin 2020)
+
+https://www.gimp.org
+
+Outils d’édition d’images
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de GIMP
+
+64
+
+
+
+RawTherapee
+
+RawTherapee est un logiciel de traitement d’images photographiques 
+numériques. Comme son nom l’indique et par rapport à son voisin 
+GIMP, il est utilisé en particulier pour la retouche de photographies. 
+
+
+LightRoom
+
+GNU/Linux, Mac OS, Windows
+
+L’équipe RawTherapee
+
+Sous licence GNU GPL v3
+
+5.8 (4 février 2020)
+
+https://rawtherapee.com
+
+Domaine :
+
+Outils d’édition d’images
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de RawTherapee
+
+65
+
+
+
+Inkscape
+
+Inkscape est un logiciel de conception vectorielle que l’on peut 
+comparer 
+à Adobe Illustrator. Le logiciel permet d’éditer de nombreux 
+formats tels que SVG, PNG, EPS ou encore JPEG. Inkscape dispose de 
+beaucoup d’extensions et d’une grande communauté. Ce logiciel représente 
+une bonne alternative pour la création d’affiches, de flyers ou 
+encore de cartes de visite.
+
+
+Adobe Illustrator
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+Sous licence GPL v2
+
+1.0 (4 mai 2020)
+
+https://inkscape.org
+
+Domaine :
+
+Outils d’édition d’images
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface d’Inkscape
+
+66
+
+
+
+Scribus
+
+Scibus est un logiciel de PAO (publication assistée par ordinateur), 
+comme Adobe InDesign dont il est l’alternative libre. Il permet de réaliser 
+des mises en page et de préparer des fichiers de manière efficace 
+et flexible, pour tout support destiné à l’impression ou à la visualisation 
+numérique.
+
+
+Adobe InDesign
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+Sous licence GPL v2
+
+1.5.5 (2 août 2019)
+
+https://www.scribus.net
+
+Domaine :
+
+Outils de PAO
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de Scribus
+
+67
+
+
+
+KdenLive
+
+Kdenlive est un logiciel d’édition vidéo, il permet le montage de 
+fichiers 
+audios et vidéos. Il possède une interface simple et personnalisable. 
+Kdenlive gère quasiment tous les formats de fichiers, propose 
+une large gamme d’effets et de transitions, prend en charge un 
+nombre illimité de pistes audios, vidéos et dispose de bien d’autres 
+fonctionnalités intéressantes.
+
+
+Adobe Premiere Pro
+
+GNU/Linux, Mac OS, Windows
+
+Jean-Baptiste Mardelle
+
+Sous licence GPL v2
+
+20.04.0 (24 avril 2020)
+
+https://kdenlive.org
+
+Outils d’édition vidéo
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de Kdenlive
+
+68
+
+
+
+OpenShot
+
+OpenShot est un logiciel d’édition vidéo qui offre une grande variété 
+de fonctionnalités et un interface personnalisable. Contrairement 
+à son voisin KdenLive, il est plutôt utilisé pour des montages vidéos 
+amateurs. 
+
+
+Adobe Premiere Pro
+
+GNU/Linux, Mac OS, Windows
+
+OpenShot Studios, LLC
+
+Souslicence GNU GPL
+
+2.5.0 (8 février 2020)
+
+https://www.openshot.org
+
+Outils d’édition vidéo
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface d’OpenShot
+
+69
+
+
+
+Blender
+
+Blender est un logiciel d’animations et de modélisations 3D très puissant 
+permettant d’obtenir des résultats de niveau professionnel. Grâce 
+à sa grande communauté, une multitude de tutoriels sont disponibles 
+sur internet.
+
+
+SketchUp
+
+GNU/Linux, Mac OS, Windows
+
+Fondation Blender
+
+Sous licence GPL v3
+
+2.83 (3 juin 2020)
+
+https://www.blender.org
+
+Domaine :
+
+Outils de modélisation 3D
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface de Blender
+
+70
+
+
+
+Ardour
+
+Ardour est une station audio. Le logiciel propose un grand nombre de 
+fonctionnalités. On peut, entre autres, y réaliser des enregistrements 
+audios ou y mixer des pistes. C’est une excellente alternative libre à 
+Pro Tools d’Avid.
+
+
+Pro Tools
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+Sous licence GPL v2
+
+6.0 (22 mai 2020)
+
+http://www.ardour.org
+
+Domaine :
+
+Outils d’édition audio
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Créer son contenu
+
+Interface d’Ardour
+
+71
+
+
+
+Promouvoir 
+son 
+activité
+
+Les outils permettant la communication avec sa 
+clientèle ou sa communauté sont très nombreux 
+sur le marché. Les réseaux sociaux les plus 
+utilisés aujourd’hui ne respectent pas notre 
+intégrité numérique en récoltant massivement 
+nos données personnelles. Les alternatives libres 
+existent et ne demandent qu’à devenir plus 
+populaires.
+
+
+
+Mastodon
+
+Créé fin 2016, Mastodon est considéré comme l’alternative décentralisée 
+de Twitter. Ce réseau social est également constitué de serveurs 
+indépendants qui peuvent communiquer les uns avec les autres. En 
+plus de ne pas tracer ses utilisateurs et de ne pas diffuser de publicités, 
+le réseau social permet d’envoyer des 
+« poquets », qui est l’équivalent 
+des tweets, avec plus de 500 caractères contre seulement 280 pour 
+Twitter.
+
+
+Twitter
+
+GNU/Linux, Mac OS, Windows
+
+Contributeurs bénévoles
+
+Sous licence AGPL
+
+3.1.4 (14 mai 2020)
+
+https://joinmastodon.org
+
+Domaine :
+
+Réseaux sociaux
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface de Mastodon
+
+74
+
+
+
+Diaspora*
+
+Lancé en 2010, Diaspora* a pour objectif de fournir les mêmes fonctionnalités 
+que Facebook. Cependant, Diaspora* est un logiciel libre 
+et un réseau décentralisé dont l’objectif est de protéger les données 
+personnelles de ses utilisateurs. Pour cela, il s’appuie sur une multitude 
+de serveurs sur lesquels les données sont disséminées et chiffrées. 
+Il est possible d’héberger ses données sur son propre serveur.
+
+
+Facebook
+
+GNU/Linux, Mac OS, Windows
+
+Contributeurs bénévoles
+
+Sous licence AGPL
+
+0.7.14.0 (14 juin 2020)
+
+https://diasporafoundation.org
+
+Domaine :
+
+Réseaux sociaux
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface de Diaspora*
+
+75
+
+
+
+Movim
+
+Movim est un réseau social, créé en 2010, qui se concentre sur la 
+messagerie instantanée et permet de poster des articles comme sur 
+un blog. Movim est décentralisé et fédéré. Il repose sur le protocole 
+XMMP/Jabber. Cette technologie utilise le même principe que le courriel. 
+Chaque utilisateur a une adresse (utilisateur@serveur) et peut 
+choisir son serveur parmi ceux disponibles, voire créer le sien.
+
+
+Facebook
+
+GNU/Linux, Mac OS, Windows
+
+TheMovim Project
+
+Sous licence GNU AGPL V3 et LGPL V3
+
+0.14.1 (10 février 2019)
+
+https://movim.eu
+
+Réseaux sociaux
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface de Movim
+
+76
+
+
+
+PeerTube
+
+PeerTube a été créé par Framasoft afin de d’offrir une alternative à 
+YouTube. Son fonctionnement est semblable à celui de Mastodon et 
+de 
+Diaspora*. PeerTube 
+fédère, cela signifie qu’il est basé sur une multitude 
+d’instances. 
+Il ne propose aucune recommandation en fonction 
+des historiques de recherches de l’utilisateur.
+
+
+YouTube
+
+GNU/Linux, Mac OS, Windows
+
+Framasoft
+
+Sous licence AGPL
+
+2.2.0 (2 juin 2020)
+
+https://joinpeertube.org
+
+Réseaux sociaux
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface de PeerTube
+
+77
+
+
+
+Pixelfed
+
+PixelFed est un réseau social décentralisé et fédéré. Ses fonctionnalités 
+sont proches de celles d’Instagram, le respect de la vie privée de 
+ses utilisateurs en plus.
+
+
+Instagram
+
+GNU/Linux, Mac OS, Windows
+
+Daniel Supernault
+
+Sous licence AGPL
+
+0.10.7 (7 janvier 2020)
+
+https://pixelfed.org
+
+Domaine :
+
+Réseaux sociaux
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface de PixelFed
+
+78
+
+
+
+Funkwhale
+
+Funkwhale est un serveur de musique libre, décentralisé et fédéré. Il 
+permet de streamer et d’héberger de la musique avec des fonctions 
+proches de SoundCloud.
+
+
+SoundCloud
+
+Eliot Berriot
+
+Sous licence AGPL
+
+0.19.0 (16 mai 2019)
+
+https://funkwhale.audio
+
+Wikipédia
+
+Wikipédia est une encyclopédie libre et collaborative. Elle permet 
+de regrouper des informations sur divers sujets. Wikipédia n’est pas 
+un réseau social, plutôt une sorte d’encyclopédie. C’est un excellent 
+exemple d’outil devenu très populaire et qui est resté libre.
+
+
+Contributeurs bénévoles
+
+https://www.wikipedia.org
+
+Domaine :
+
+Réseaux sociaux
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Encyclopédie en ligne
+
+Domaine :
+
+Éditeur : 
+
+79
+
+
+
+MailPoet
+
+MailPoet est un plugin Wordpress qui permet d’intégrer un service de 
+newsletter dans son site Internet. Son installation est très rapide et ses 
+fonctionnalités sont nombreuses. Il permet notamment de créer des 
+e-mails directement depuis WordPress. MailPoet permet également 
+de créer des formulaires pour collecter des inscriptions depuis le site 
+internet. Enfin, 
+il permet 
+la création et la gestion de plusieurs listes 
+d’abonnés. MailPoet propose aussi un service d’envoi gratuit jusqu’à 
+1000 abonnés.
+
+
+MailChimp
+
+GNU/Linux, Mac OS, Windows
+
+MailPoet
+
+Sous licence GPL v3
+
+3.47.7 (30 juin 2020)
+
+https://www.mailpoet.com
+
+
+Domaine :
+
+Newsletter
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Promouvoir son activité
+
+Interface deMailPoet dans WordPress
+
+80
+
+
+
+Transiscope
+
+En 2018, dix associations se sont réunies afin de créer un portail web 
+regroupant toutes les initiatives écologiques et solidaires en France, 
+mais aussi en Suisse. Le site se présente sous forme d’une carte interactive 
+où tous les acteurs de l’ESS sont référencés par domaine 
+et par région. Une fois la structure choisie, toutes ses coordonnées 
+s’affichent : description de la structure, adresse, site internet, engagement 
+citoyen on encore horaire. Près de chez nous (https://presdecheznous.
+fr) et Cap ou pas cap (https://www.capoupascap.info) sont 
+deux autres annuaires regroupants des initiavites citoyennes responsables.
+
+
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+https://transiscope.org
+
+Domaine :
+
+Annuaires
+
+Disponible sur : 
+
+Éditeur : 
+
+Promouvoir son activité
+
+Interface de Transiscope
+
+81
+
+
+
+Travailler 
+au 
+quotidien
+
+Quels outils pour travailler au quotidien ? De 
+la navigation sur le web à la communication 
+interne, tout existe en version libre !
+
+
+
+Firefox
+
+Firefox est développé par Mozilla Foundation, une organisation à but 
+non lucratif. Très performant et multiplateforme, il possède des milliers 
+d’extensions et des thèmes graphiques offrant la possibilité à chaque 
+utilisateur de le personnaliser selon ses goûts. En plus de proposer 
+tous les services d’un navigateur web, Firefox 
+met un point d’honneur 
+à protéger la vie privée. Il est également disponible en version mobile.
+
+
+Google Chrome, Safari, Edge
+
+GNU/Linux, Mac OS, Windows
+
+Mozilla Foundation
+
+Sous licence GPL v3, MPL 2.0
+
+77.0.1 (3 juin 2020)
+
+https://www.mozilla.org
+
+Navigateurs web
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de Firefox, espace de gestion de la sécurité
+
+84
+
+
+
+Pale Moon
+
+Pale Moon a été développé à partir du code source de Firefox. Afin 
+d’être plus rapide et stable, le navigateur a été allégé de quelques 
+fonctionnalités. Point négatif à relever, un grand nombre d’extensions 
+de Firefox ne sont pas compatibles avec Pale Moon.
+
+
+Google Chrome, Safari, Edge
+
+GNU/Linux, Mac OS, Windows
+
+M.C.Straver
+
+Sous licence MPL
+
+28.10.0 (5 juin 2020)
+
+https://www.palemoon.org
+
+Brave
+
+Brave est un navigateurs web, qui s’est donné comme mission de fournir 
+à ses utilisateurs un internet plus sûr, plus rapide et une meilleures 
+expérience de navigation. Bloquant publicités, trackers, et cookies 
+tiers, Brave permet de protéger sa vie privée sur le web. 
+
+
+Google Chrome, Safari, Edge
+
+Brave Software, Inc.
+
+Sous licence MPL 2.0
+
+1.9.72 (20 mai 2020)
+
+https://brave.com
+
+Domaine :
+
+Navigateurs web
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Domaine :
+
+Navigateurs web
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+85
+
+
+
+uBlock Origin
+
+uBlock Origin est une extension open source pour navigateur web qui 
+permet de contrôler le contenu des sites visités et de bloquer les publicités, 
+mouchards et cookies des sites visités. Cela permet notamment 
+d’améliorer la rapidité de chargements des pages et de protéger ses 
+données.
+
+
+Adblock Plus
+
+Chrome, Firefox, Microsoft Edge
+
+Raymond Hill
+
+Sous licence GPLv3
+
+1.27.10 (27 mai 2020)
+
+https://getublock.com
+
+Midori
+
+Midori offre toutes les fonctionnalités d’un navigateur de base. Il est 
+très léger, rapide et permet une navigation fluide et efficace.
+
+
+Google Chrome, Safari, Edge
+
+Christian Dywan
+
+Sous licence LGPL
+
+9.0 (29 juillet 2019)
+
+https://www.midori-browser.org
+
+Domaine :
+
+Navigateurs web
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Domaine :
+
+Contrôle sécurité web
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+86
+
+
+
+DuckDuckGo
+
+DuckDuckGo est un métamoteur de recherche lancé en 2008. Il utilise 
+un algorithme lui permettant de récupérer les résultats de recherche 
+provenant de plusieurs moteurs de recherche tels que Google ou 
+Yahoo, pour ensuite classer les résultats et éliminer les doublons. Il 
+a pour but de limiter au maximum la récupération et la mémorisation 
+des données personnelles de ses utilisateurs. Il offre également les 
+mêmes résultats pour chaque utilisateur.
+
+
+Google
+
+DuckDuckGo, Inc.
+
+Sous license Apache V2
+
+https://duckduckgo.com
+
+Domaine :
+
+Moteurs de recherche
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Travailler au quotidien
+
+Ecran d’accueil de DuckDuckGo
+
+87
+
+
+
+Qwant
+
+Lancé en 2013, Qwant est une alternative française intéressante 
+pour protéger ses données personnelles. Le moteur a développé son 
+propre indexeur, qui est également complété par d’autres sources. La 
+solution ne conserve aucune donnée personnelle. Elle propose également 
+des recherches qui ne se basent pas sur les historiques de navigation 
+des utilisateurs. Qwant propose une version 
+Junior, censurant 
+le contenu non adapté pour les plus jeunes.
+
+
+Google
+
+Pertimm, France
+
+Licence MIT/X11
+
+https://www.qwant.com
+
+Moteurs de recherche
+
+Domaine :
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Travailler au quotidien
+
+Ecran d’accueil de Qwant
+
+88
+
+
+
+SearX
+
+SearX est un métamoteur de recherche qui a pour but, comme Qwant 
+et DuckDuckGo, de protéger la vie privée de ses utilisateurs. Ce moteur 
+de recherche est sans publicité et ne conserve aucune donnée 
+personnelle. Il utilise les résultats de Bing et Yahoo pour proposer des 
+résultats pertinents. Il représente donc une bonne alternative totalement 
+libre et éthique.
+
+
+Google
+
+Adam Tauber
+
+Licence AGPL
+
+https://searx.me
+
+YaCy
+
+YaCy (Yet Another Cyberspace) protège toutes les données personnelles 
+des utilisateurs. Cependant, YaCy est un moteur de recherche 
+décentralisé et fonctionne en pair à pair. Cela signifie que chaque utilisateur 
+joue le rôle de « serveur » pour l’indexation des pages web. Il 
+n’est pas encore prêt à remplacer les moteurs de recherche traditionnels, 
+mais c’est une initiative intéressante à soutenir.
+
+
+Google
+
+Michael Peter Christen et autres 
+
+contributeurs au projet
+
+Licence GPL v2
+
+yacy.net/fr
+
+Moteurs de recherche
+
+Domaine :
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Travailler au quotidien
+
+Moteurs de recherche
+
+Domaine :
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+89
+
+
+
+Ecosia
+
+Ecosia a fait de la reforestation son objectif principal. En effet, ce métamoteur 
+de recherche solidaire reverse 80% de ses bénéfices pour 
+la lutte contre la déforestation. Ainsi, grâce aux recherches faites sur 
+Ecosia, des arbres sont plantés dans plus d’une douzaine de pays à 
+travers le monde.
+
+
+Google
+
+Ecosia GmbH
+
+https://www.ecosia.org
+
+Lilo
+
+Comme Ecosia, Lilo est un métamoteur de recherche qui finance des 
+projets associatifs. 50% des bénéfices sont reversés à des projets choisis 
+par les utilisateurs. 
+
+
+Google
+
+Lilo SAS
+
+https://www.lilo.org/fr
+
+Ecogine
+
+Ecogine est un métamoteur de recherche français. Il se veut éthique et 
+a pour but le financement de projets environnementaux. L’intégralité 
+de ses bénéfices sont reversés à ces projets.
+
+
+Google
+
+Ecogine
+
+https://ecogine.org
+
+Moteurs de recherche
+
+Domaine :
+
+Alternative à : 
+
+Éditeur : 
+
+Travailler au quotidien
+
+Domaine :
+
+Moteurs de recherche
+
+Alternative à : 
+
+Éditeur : 
+
+Domaine :
+
+Moteurs de recherche
+
+Alternative à : 
+
+Éditeur : 
+
+90
+
+
+
+Liberapay
+
+Liberapay est une plateforme qui permet aux associations, coopératives 
+ou autres structures à but non lucratif ou lucrativité limitée de recevoir 
+des dons récurrents.
+
+
+Changaco et Zatalyz
+
+https://liberapay.com
+
+HelloAsso
+
+Créée en France en 2002, HelloAsso est une solution réservée au 
+secteur associatif. Elle met gratuitement à disposition de ses utilisateurs 
+des outils de vente de biens et de services, de billetterie d’événements, 
+de gestion des adhésions, de création de formulaires de 
+recueil de dons et enfin de gestion de financement participatif pour 
+un projet. 
+
+
+SAS HelloAsso
+
+https://www.helloasso.com
+
+DigitESS
+
+DigitESS est un programme qui permet aux acteurs de l’ESS de trouver 
+des solutions numériques adaptées à leurs besoins afin d’augmenter 
+leur impact 
+social.
+
+
+simplon.co
+
+https://digitess.simplon.co
+
+Domaine :
+
+Services de paiement en ligne
+
+Éditeur : 
+
+Travailler au quotidien
+
+Domaine :
+
+Services de financement participatif
+
+Éditeur : 
+
+Domaine :
+
+Services d’accompagnement digital
+
+Éditeur : 
+
+91
+
+
+
+Alaya
+
+Alaya est une plateforme d’engagement solidaire basée à Renens 
+(VD). Elle a pour but de faciliter le pont entre les entreprises et les associations, 
+afin de permettre à chacun de soutenir les causes qu’ils 
+défendent.
+
+
+Alaya
+
+Solution non libre
+
+https://alayagood.com/fr
+
+Mattermost
+
+Mattermost est un service pour la communication instantanée interne 
+que les entreprises peuvent héberger elles-mêmes. Les fonctionnalités 
+principales de Mattermost sont la création de différents canaux de discussion 
+instantanée, des appels téléphoniques, des visioconférences 
+et des partages de fichiers. La plateforme est hébergée sur un serveur 
+local, de cette manière, l’entreprise contrôle ses données.
+
+
+Slack
+
+GNU/Linux, Mac OS, Windows
+
+Mattermost Inc
+
+Sous licence MIT pour les serveurs,
+
+Apache V2 pour les autres versions
+
+5.20.1 (16 février 2020)
+
+https://mattermost.com
+
+Services d’engagement solidaire
+
+Domaine :
+
+Éditeur : 
+
+Licence : 
+
+Travailler au quotidien
+
+Outils de communication
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+92
+
+
+
+Dolibarr
+
+Dolibarr est un logiciel de gestion adapté aux petites et moyennes 
+structures. Complet, il permet notamment de gérer la comptabilité, 
+les stocks, les commandes et les comptes bancaires. Il est également 
+modulable, des fonctions peuvent être ajoutées ou enlevées selon les 
+besoins de l’entreprise.
+
+
+SAP ERP
+
+GNU/Linux, Mac OS, Windows
+
+L’équipe Dolibarr
+
+Sous licence GNU GPL
+
+11.0.5 (26 juin 2020)
+
+https://www.dolibarr.fr
+
+Outils de gestion
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de Dolibarr
+
+93
+
+
+
+GNUCash
+
+GNUCash est un loigicel permettant de gérer la comptabilité des petites 
+à moyennes entreprises, voire la gestion de la comptabilité personnelle. 
+Paramétrable et adaptable à différents systèmes de taxtions 
+selon le pays, il permet notamment de réaliser des plans comptables, 
+de gérer les relations avec les clients et les fournisseurs, et de générer 
+des graphiques pour visualiser les résultats.
+
+
+SAP ERP
+
+GNU/Linux, Mac OS, Windows, 
+
+FreeBSD, Android
+
+GNU
+
+Sous licence GPL v2
+
+4.0 (28 juin 2020)
+
+https://www.gnucash.org/
+
+Domaine :
+
+Outils de gestion financière
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de GNUCash
+
+94
+
+
+
+Thunderbird
+
+Thunderbird est un client de messagerie, un outil libre inévitable 
+pour gérer les e-mails. Il est comparable aux logiciels proposés par 
+les géants du web comme Outlook de Microsoft ou Mail d’Apple. Le 
+logiciel permet de gérer plusieurs adresses de messagerie et peut accueillir 
+de nombreuses extensions et thèmes. Thunderbird possède 
+également des fonctionnalités permettant de préserver les données 
+personnelles de l’utilisateur.
+
+
+Outlook de Microsoft
+
+GNU/Linux, Mac OS, Windows
+
+Mozilla Foundation
+
+Sous licence MPL, LGPL, GPL v2, MPL v2
+
+68.9.0 (3 juin 2020)
+
+https://www.thunderbird.net/fr
+
+Outils de gestion des e-mails
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de Thunderbird
+
+95
+
+
+
+Jitsi
+
+Jitsi est un service de visioconférence, permettant de communiquer 
+par vidéo, de passer des appels audios, mais également de discuter 
+par messagerie instantanée. L’application n’annonce aucune limite 
+pour le nombre de personnes pouvant participer à une visioconférence. 
+De plus, toutes les conversations que ce soit vidéos, audios ou 
+textuelles sont chiffrées. 
+
+
+Skype
+
+GNU/Linux, Mac OS, Windows
+
+Université de Strasbourg
+
+Sous licence Apache V2
+
+2.10 (1er octobre 2017)
+
+https://jitsi.org
+
+Outils de visioconférence
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de Jitsi
+
+96
+
+
+
+Nextcloud
+
+NextCloud est l’alternative libre idéale pour remplacer les services de 
+stockage cloud et de collaboration comme Dropbox ou Google Drive, 
+tout en restant maître de l’hébergement de la plate-forme. La solution 
+est disponible pour les utilisateurs individuels et les PME (en version 
+payante). Regroupant une grande communauté, la plateforme bénéficie 
+de nombreuses extensions afin d’élargir ses fonctionnalités.
+
+
+Google Drive ou Dropbox
+
+GNU/Linux, Mac OS, Windows
+
+Frank Karlitschek
+
+Sous licence APGL
+
+19.0.0 (3 juin 2020)
+
+https://nextcloud.com
+
+Outils de stockage
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Travailler au quotidien
+
+Interface de NextCloud
+
+97
+
+
+
+Rester 
+libre
+
+Pour aller plus loin, quelques autres services et 
+outils qui vous permettront de rester libre, ou de 
+le devenir. 
+
+
+
+OsmAnd
+
+Osmand est un service de navigation. 
+L’application peut être utilisée 
+en ligne, mais également 
+hors ligne. Pour cela, les cartes doivent être 
+préalablement téléchargées sur le smartphone. Les sources utilisées 
+sont celles d’OpenStreetMap. Osmand offre des fonctionnalités voisines 
+de celles des systèmes de navigation des géants numériques 
+telles que la navigation guidée vocale ou encore le recalcul d’itinéraire 
+en cours de route.
+
+
+Google Maps
+
+Android, IOS
+
+OsmAnd B.V.
+
+Sous licence GPL v3
+
+3.7 (Android, 23 mai 2020), 
+
+3.14 (iOS, 26 mai 2020)
+
+https://osmand.net
+
+Rester libre
+
+Domaine :
+
+Outils de cartographie mobile
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface d’Osmand
+
+100
+
+
+
+OpenStreetMap
+
+OpenStreetMap est un système de cartographie éthique offrant les 
+mêmes fonctionnalités que Google Maps. Le projet a été constitué par 
+des bénévoles et est maintenu par une communauté large et dynamique. 
+Avec OpenStreetMap, il est possible d’intégrer des cartes sur 
+un site internet afin de représenter des positions géographiques ou 
+d’afficher un itinéraire. 
+
+
+Google Maps
+
+GNU/Linux, Mac OS, Windows
+
+La communauté
+
+Sous licence OdbL
+
+https://www.openstreetmap.org
+
+Rester libre
+
+Domaine :
+
+Outils de cartographie
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Ecran d’accueil d’OpenStreetMap
+
+101
+
+
+
+Signal
+
+Signal est une alternative libre et sécurisée. Les communications sont 
+totalement chiffrées, ce qui préserve les données personnelles durant 
+la communication téléphonique et par message. De plus, Signal ne 
+conserve aucune donnée sur ses serveurs. 
+
+
+WhatsApp
+
+Android, IOS
+
+Open Whisper Systems et d
+
+es contributeurs
+
+Sous licence GPL v3
+
+1.34.3 (26 juin 2020)
+
+https://signal.org/fr
+
+Rester libre
+
+Domaine :
+
+Outils de communication mobile
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface de Signal
+
+102
+
+
+
+Conversations
+
+Conversations est également une application de messagerie libre. 
+L’application chiffre les communications de bout en bout. À la différence 
+de Signal, Conversations utilise le protocole 
+XMMP/Jabber. 
+L’application est vendue sur le Play Store mais est proposée gratuitement 
+sur F-Droid.
+
+
+WhatsApp
+
+Android
+
+Daniel Gultsch
+
+Sous licence GPL v3
+
+2.8.2 (6 mai 2020)
+
+https://conversations.im
+
+F-Droid
+
+F-Droid est un catalogue d’applications libres et open source pour Android 
+et ses dérivés. Celles-ci peuvent être installées sur mobile directement 
+depuis l’application.
+
+
+Google Play
+
+Android, Replicant
+
+Ciaran Gultnieks
+
+Sous licence GPL v3
+
+1.8 (29 avril 2020)
+
+https://f-droid.org
+
+Domaine :
+
+Outils de communication mobile
+
+Rester libre
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Magasins d’applications
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+103
+
+
+
+Exodus Privacy
+
+Exodus Privacy est une association française fondée en 2017. Elle développe 
+la plateforme Exodus qui permet d’analyser les applications 
+Android et liste les « pisteurs » qu’elles contiennent. Ces marqueurs 
+traquent et collectent des données sur le comportement des utilisateurs. 
+Exodus permet ainsi de prendre conscience des données transmises 
+par les applications installées.
+
+/e/ est un un système d’exploitation mobile disponible actuellement 
+pour 89 modèles de smartphones. Le projet est à but non lucratif. La 
+/e/ foundation a comme objectif de fournir à tous une technologie 
+pour smartphone qui protége la vie privée des utilisateurs. 
+
+
+GNU/Linux, Mac OS, Windows
+
+Contributeurs bénévoles
+
+Sous licence GNU AGPL V3
+
+2.0.0 (21 novembre 2019)
+
+Android
+
+E Foundation, Gaël Duval
+
+Sous license Apache 2, MIT et d’autres
+
+Version bêta basée sur 
+
+LinageOS 15.1 (22 novembre 2018)
+
+https://exodus-privacy.eu.org/fr
+
+https://e.foundation
+
+/e/
+
+
+Rester libre
+
+Contrôle sécurité web mobile
+
+Domaine :
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Domaine :
+
+Système d’exploitation mobile
+
+Alternative à :
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+104
+
+
+
+VLC
+
+VLC est un lecteur multimédia disposant d’un très grand nombre de 
+fonctionnalités 
+et permettant de lire la plupart des formats audio et 
+vidéos, de lire un flux réseau, de convertir des formats ou encore de 
+faire des captures d’écran d’une vidéo. A ce titre, VLC est un incontournable 
+à installer sur sa machine.
+
+
+Media player natifs Mac OS et Windows
+
+GNU/Linux, Mac OS, Windows, 
+
+Android, iOS
+
+VideoLAN et Jean-Baptiste Kempf
+
+Sous licence LGPL 2.1+
+
+3.0.11 (15 juin 2020)
+
+https://www.videolan.org/vlc
+
+
+Rester libre
+
+Lecteur de médias
+
+Domaine :
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface de VLC
+
+105
+
+
+
+LimeSurvey
+
+Lime Survey est un outil d’enquête en ligne qui permet de créer un 
+nombre illimité d’enquêtes et de questionnaires plus ou moins complexes. 
+Il dispose de plusieurs types de questions, peut intégrer des 
+images et des vidéos, émettre des sondages publics ou privés, le 
+tout dans plusieurs langues. La solution dispose également de nombreuses 
+extensions qui permettent d’élargir ses fonctionnalités.
+
+
+Google Forms
+
+GNU/Linux, Mac OS, Windows
+
+Carsten Schmitz, Denis Chenu 
+
+et d’autres
+
+Sous licence GNU GPL
+
+3.22.10 (23 mars 2020)
+
+https://www.limesurvey.org/fr
+
+Rester libre
+
+Domaine :
+
+Outils de création de sondages
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface de LimeSurvey
+
+106
+
+
+
+Sozi
+
+Sozi est un logiciel de présentation. L’outil utilise la même méthode 
+de présentation que Prezi, à savoir une absence de diapos, mais une 
+grande page et un déplacement de caméra zoomant sur les différents 
+sujets traités.
+
+
+Microsoft PowerPoint, Prezi
+
+GNU/Linux, Mac OS, Windows
+
+Guillaume Savaton
+
+Sous licence MPL
+
+20.05 (10 mai 2020)
+
+https://sozi.baierouge.fr
+
+Rester libre
+
+Domaine :
+
+Outils d’édition de présentations
+
+Alternative à : 
+
+Disponible sur : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Interface de Sozi
+
+107
+
+
+
+Framasoft
+
+Framasoft est une association qui propose une multitude d’alternatives 
+libres aux outils et services des géants du numérique. Elle met 
+à disposition plus d’une trentaine d’outils différents, tels que Framaforms 
+(alternative à Google 
+Forms), Framadate (alternative idéale à 
+Doodle), Framapad et Framacalc (alternatives à Google Docs et Google 
+Sheet), Framatalk (alternative à Skype), ou encore Framadrive (alternative 
+à Dropbox ou GoogleDrive).
+
+
+
+Google
+
+https://framasoft.org/fr
+
+GNU/Linux
+
+GNU/Linux est un système d’exploitation représentant l’alternative 
+libre et gratuite aux solutions proposées essentiellement par Microsoft 
+et Apple. Son installation est simple, compatible avec PC et MAC. Afin 
+d’installer GNU/Linux, il faut choisir une « distribution », par exemple 
+Linux Mint, Ubuntu ou Debian. Ce système d’exploitation est sécurisé 
+et personnalisable. Il permet l’économie d’une licence Windows ou 
+OSX.
+
+
+Mac OS, Windows
+
+Richard Stallman, Linus Torvalds, 
+
+la communauté
+
+Sous licence GNU GPL
+
+5.7.6 (24 juin 2020)
+
+https://www.gnu.org/gnu/linux-and-gnu.fr.html
+
+Rester libre
+
+Domaine :
+
+Systèmes d’exploitation
+
+Alternative à : 
+
+Éditeur : 
+
+Licence : 
+
+Dernière version : 
+
+Domaine :
+
+Associations
+
+Alternative à : 
+
+108
+
+
+
+Mobicoop
+
+
+Site: https://www.mobicoop.fr
+
+Domaine: Covoiturage libre
+
+Bénévalibre
+
+
+Site: https://benevalibre.org/site
+
+Domaine: Gestion du bénévolat dans les 
+asociations
+
+Fairbnb
+
+
+Site: https://fairbnb.coop
+
+Domaine: Réservation d’hébergement
+
+Fairphone
+
+
+Site: https://www.fairphone.com
+
+Domaine: Hardware - téléphone mobile
+
+La bonne combine
+
+
+Site: https://www.labonnecombine.ch
+
+Domaine: Réparation hardware et électroménager
+
+
+Why!
+
+
+Site: https://whyopencomputing.ch
+
+Domaine:
+
+Achat d’ordinateurs réparables facilement 
+et installés avec GNU/Linux
+
+Rester libre
+
+109
+
+
+
+Recommandations 
+libres
+
+ Que faire avec tout ça ? Par où commencer pour devenir 
+plus libre, agir en conscience ? Restez curieux, reprenez 
+ce guide et ses nombreuses références, suivez-les, revenez-y. 
+Le simple fait de savoir vous aidera déjà grandement dans 
+votre chemin, et votre participation à un monde plus libre. 
+
+Individuellement, voici déjà les deux actions que vous pouvez 
+d’ores et déjà faire :
+
+• Changez de navigateur web (par défaut) : en quelques 
+clics c’est fait, et vous n’aurez pas à changer vos habitudes 
+pour autant, mais vos données personnelles seront 
+plus en sécurité. Alors posez ce guide, et prenez 5 minutes 
+pour le faire, maintenant.
+• De même pour le moteur de recherche (par défaut) : il 
+ne suffit que de quelques secondes pour connfigurer un 
+nouveau moteur de recherche, et ça se trouve dans les 
+paramètres de votre navigateur web. Et les alternatives à 
+Google sont nombreuses !
+
+
+
+
+Si certains outils ou solutions demandent néanmoins un peu 
+d’apprentissage et/ou de changer quelques habitudes, ne prenez 
+pas peur. Ça n’est jamais impossible et toujours enrichissant. 
+Peut-être même que ces alternatives libres correspondront 
+mieux à vos besoins. 
+
+Au niveau des organisations, ce sont les habitudes de plusieurs 
+personnes qui sont impactées, et il est parfois difficile de mettre 
+tout le monde d’accord. L’effort à fournir pour entreprendre un 
+changement est donc collectif. Mais voyez cela comme une 
+force, car la motivation de changer pour un monde plus libre 
+peut être renforcée par le groupe. 
+
+Alors restez ouverts et curieux. Et pas à pas, entreprenez ce 
+mouvement vers une communication numérique vraiment 
+sociale et solidaire. 
+
+
+
+Bibliographie
+
+Livres
+
+• BAREAU, Hélène, 2018. La face cachée du numérique: réduire les impacts 
+du numérique sur l’environnement. Angers : ADEME. 
+• BORDAGE, Frédéric, 2019a. Ecoconception web, les 115 bonnes 
+pratiques. 3ème édition. Paris : Eyrolles. 
+• BORDAGE, Frédéric, 2019b. Sobriété numérique. Paris : Buchet Chastel. La 
+Verte. 
+• COOK, Gary et JARDIM, Elizabeth, 2017. Guide to Greener electronics 
+[en ligne]. octobre 2017. Greenpeace. Disponible à l’adresse : https://www.
+greenpeace.org/usa/wp-content/uploads/2017/10/GGE17_ReportCards.
+pdf
+• DELALAIN, Amélie et PIERRE, Héloïse, 2018. Libre et humain à l’ère 
+d’internet, ça vous dit? Annecy : Esprit Créateur, Etikya. 
+• FLIPO, Fabrice, DOBRÉ, Michelle et MICHOT, Marion, 2013. La face 
+cachée du numérique - l’impact environnemental des nouvelles 
+technologies. L’Echapée. Pour en finir avec. 
+• KAISER, Brittany, 2019. Targeted: The Cambridge Analytica 
+Whistleblower’s Inside Story of How Big Data, Trump, Facebook Broke 
+Democracy and How It Can Happen Again. Harper. 
+• MAUVILLY, Karine, 2019. Cyber-minimalisme. Paris : Seuil. Anthropocène. 
+• NITOT, Tristan, 2016. surveillance:// Les libertés au défi du numérique: 
+comprendre et agir. C&F Editions. 
+• WYLIE, Chritopher, 2019. Mindf*ck: Cambridge Analytica’s Plot to Break 
+America. Random house. 
+• ZUBOFF, Shoshana, 2019. The Age of Surveillance Capitalism: The Fight 
+for a Human Future at the New Frontier of Power. New York : PublicAffairs. 
+
+
+Sites internet
+
+• APRES BEJUNE – Chambre de l’économie sociale et solidaire [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://apres-bejune.
+ch/
+• APRES-GE [en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : 
+https://www.apres-ge.ch/
+
+
+112
+
+
+
+• APRES-VD [en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : 
+http://www.apres-vd.ch/
+• CADWALLADR, Carole, 2020. Fresh Cambridge Analytica leak ‘shows 
+global manipulation is out of control’. The Observer [en ligne]. 4 janvier 
+2020. [Consulté le 17 février 2020]. Disponible à l’adresse : https://www.
+theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-
+global-election-manipulation
+• Canton de Genève. Faire une demande de subvention ponctuelle au 
+service Agenda 21 - Ville durable [en ligne]. [Consulté le 17 février 2020]. 
+Disponible à l’adresse : https://www.geneve.ch/fr/demarches/demande-
+subvention-ponctuelle
+• CECIL – AIL – Association pour une Informatique Libre [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://asso-ail.org/
+tag/cecil/
+• Chambre Régionale de l’Économie Sociale et Solidaire Auvergne-
+Rhône-Alpes - CRESS AuRA. Valeurs et Principes [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : http://www.cress-
+aura.org/valeurs-et-principes
+• Colibris Outils Libres [en ligne]. [Consulté le 17 février 2020]. Disponible à 
+l’adresse : https://colibris-outilslibres.org
+• copyleft.org [en ligne]. [Consulté le 17 février 2020]. Disponible à 
+l’adresse : https://www.copyleft.org/
+• Creative Commons France. Présentation des licences Creative Commons 
+par Framasoft [en ligne]. [Consulté le 17 février 2020]. Disponible à 
+l’adresse : https://creativecommons.fr/multmedia-2/
+• Cress Bourgogne-Franche-Comté [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://ess-bfc.org/
+• CRESS Est. Accueil [en ligne]. [Consulté le 17 février 2020]. Disponible à 
+l’adresse : http://www.cress-grandest.org/fr/accueil.html
+• Free Software Foundation. Front page [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://www.fsf.org/
+• gnu.org [en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : 
+https://www.gnu.org/licenses/copyleft.en.html
+• GUENAEL@NEXTINPACT.COM, 2018. Retour sur le scandale Cambridge 
+Analytica et la (molle) réponse de Facebook. [en ligne]. 23 mars 2018. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://www.
+nextinpact.com/news/106349-retour-sur-scandale-cambridge-analytica-et-
+molle-reponse-facebook.htm
+
+
+113
+
+
+
+• CN CRESS. L’Economie Sociale et Solidaire en mouvement [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://www.cncres.fr/
+• Le journal du Net. Les Gafam se livrent la bataille des 1 000 milliards 
+de dollars [en ligne]. [Consulté le 17 février 2020]. Disponible à 
+l’adresse : https://www.journaldunet.com/solutions/reseau-social-d-
+entreprise/1424500-les-gafam-se-livrent-la-bataille-des-1-000-milliards-
+selon-statista/
+• Gouvernement français. Les valeurs de l’économie sociale et solidaire 
+[en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : https://
+www.economie.gouv.fr/ess/valeurs-de-l-economie-sociale-et-solidaire
+• GE.CH – République et canton de Genève. Loi sur l’action publique 
+en vue d’un développement durable (Agenda 21), 2016. [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://www.ge.ch/
+document/loi-action-publique-vue-developpement-durable-agenda-21
+• GE.CH – République et canton de Genève. Qu’est-ce qu’un Agenda 21?, 
+2018. [en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : 
+https://www.ge.ch/dossier/developpement-durable-actions/qu-est-ce-qu-
+agenda-21
+• itopie. Charte de l’économie sociale et solidaire de la région genevoise 
+[en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : https://
+www.itopie.ch/wp-content/uploads/2017/06/Charte_ESS_francais.pdf
+• STALLMAN, Richard. gnu.org [en ligne]. [Consulté le 17 février 2020]. 
+Disponible à l’adresse : https://www.gnu.org/philosophy/open-source-
+misses-the-point.fr.html
+• Statista. Facebook users worldwide 2019 [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://www.statista.
+com/statistics/264810/number-of-monthly-active-facebook-users-
+worldwide/
+• Le Temps. Données personnelles: ce qui va changer en Suisse aussi avec 
+le RGPD [en ligne]. [Consulté le 17 février 2020]. Disponible à l’adresse : 
+https://www.letemps.ch/economie/donnees-personnelles-va-changer-
+suisse-rgpd
+• Tijmen Schep. Qu’est-ce que le refroidissement social ? [en ligne]. 
+[Consulté le 17 février 2020]. Disponible à l’adresse : https://socialcooling.
+fr/
+
+
+114
+
+
+
+Films
+
+• NOUJAIM, Jehane et AMER, Karim. The Great Hack: L’affaire Cambridge 
+Analytica, juillet 2019. 
+• LAURENT, Méanie et DION Cyril. Demain, 2015.
+• DION Cyril, et NOUALHAT Laure. Après-demain, septembre 2018.
+
+
+115
+
+
+
+Index des outils par nom
+
+Alaya............................................... 92
+
+Ardour............................................ 71
+
+Bénévalibre............................... 109
+
+Blender........................................... 70
+
+Brave............................................... 85
+
+C.H.A.T.O.N.S............................... 58
+
+Conversations.......................... 103
+
+Diaspora*...................................... 75
+
+DigitESS......................................... 91
+
+Dolibarr.......................................... 93
+
+Drupal............................................. 57
+
+DuckDuckGo............................... 87
+
+/e/.................................................. 104
+
+Ecogine.......................................... 90
+
+Ecosia............................................. 90
+
+Exodus Privacy......................... 104
+
+Fairbnb........................................ 109
+
+Fairphone................................... 109
+
+F-Droid........................................ 103
+
+Firefox............................................. 84
+
+Framasoft................................... 108
+
+Funkwhale.................................... 79
+
+GIMP............................................... 64
+
+GNUCash....................................... 94
+
+GNU/Linux................................. 108
+
+HelloAsso...................................... 91
+
+Infomaniak.................................... 58
+
+Inkscape........................................ 66
+
+Jitsi.................................................. 96
+
+Joomla!.......................................... 55
+
+KdenLive....................................... 68
+
+La bonne combine................. 109
+
+Liberapay...................................... 91
+
+LibreOffice.................................... 62
+
+Lilo................................................... 90
+
+LimeSurvey............................... 106
+
+MailPoet......................................... 80
+
+Mastodon...................................... 74
+
+Matomo.......................................... 59
+
+Mattermost................................... 92
+
+Midori............................................. 86
+
+Mobicoop................................... 109
+
+Movim............................................. 76
+
+Nextcloud...................................... 97
+
+OpenOffice................................... 63
+
+OpenShot...................................... 69
+
+OpenStreetMap....................... 101
+
+OsmAnd...................................... 100
+
+Pale Moon..................................... 85
+
+PeerTube....................................... 77
+
+Pixelfed.......................................... 78
+
+Qwant............................................. 88
+
+RawTherapee.............................. 65
+
+Scribus........................................... 67
+
+SearX............................................... 89
+
+Signal........................................... 102
+
+Sozi............................................... 107
+
+Thunderbird................................. 95
+
+Transiscope.................................. 81
+
+TYPO3............................................ 56
+
+uBlock Origin............................... 86
+
+VLC............................................... 105
+
+Why!............................................. 109
+
+Wikipédia...................................... 79
+
+WordPress..................................... 54
+
+YaCy................................................ 89
+
+
+
+Index des outils par alternative
+
+Adblock Plus.............................................................................................uBlock Origin p.86
+
+Amazon......................................................................................................................Why! p.109
+
+Android.........................................................................................................................../e/ p.104
+
+Chrome - Google ...........................................................................Firefox p.84, Brave p.85
+
+....................................................................................................Pale Moon p.85, Midori p.86
+
+Edge - Microsoft .............................................................................Firefox p.84, Brave p.85 
+
+....................................................................................................Pale Moon p.85, Midori p.86
+
+Facebook................................................................................Diaspora* p.75, Movim p.76 
+
+Google..........................................................DuckDuckGo p.87, SearX p.89, YaCy p.89, 
+
+......................................................................................Ecosia p.90, Lilo p.90,Ecogine p.90 
+
+Google Analytics................................................................................................Matomo p.59
+
+Google Drive....................................................................................................Nextcloud p.97
+
+Google Forms............................................................................................LimeSurvey p.106
+
+Google..............................................................................................................Framasoft p.108
+
+Google Maps.....................................................OsmAnd p.100, OpenStreetMap p.101
+
+Google Play.........................................................................................................F-Droid p.103
+
+Illustrator - Adobe.............................................................................................Inkscape p.66
+
+InDesign - Adobe.................................................................................................Scribus p.67
+
+Instagram...............................................................................................................Pixelfed p.78
+
+LightRoom - Adobe................................................................................RawTherapee p.65
+
+MailChimp...........................................................................................................MailPoet p.80
+
+Mac OS...........................................................................................................GNU/Linux p.108
+
+Media player..............................................................................................................VLC p.105
+
+Microsoft Office..........................................................LibreOffice p.62, OpenOffice p.63
+
+Outlook - Microsoft...................................................................................Thunderbird p.95
+
+Photoshop Adobe....................................................................................................GIMP p.64
+
+PowerPoint - Microsoft...........................................................................................Sozi p.107
+
+Premiere Pro - Adobe.....................................................KdenLive p.68, OpenShot p.69
+
+Prezi...............................................................................................................................Sozi p.107
+
+Pro Tools...................................................................................................................Ardour p.71
+
+Safari - Apple....................................................................................Firefox p.84, Brave p.85 
+
+....................................................................................................Pale Moon p.85, Midori p.86
+
+SAP ERP..................................................................................Dolibarr p.93, GNUCash p.94
+
+SketchUp................................................................................................................Blender p.70
+
+Skype...............................................................................................................................Jitsi p.96
+
+Slack.................................................................................................................Mattermost p.92
+
+SoundCloud...................................................................................................Funkwhale p.79
+
+Twitter................................................................................................................Mastodon p.74
+
+WhatsApp...................................................................Signal p.102, Conversations p.103
+
+Windows.......................................................................................................GNU/Linux p.108
+
+YouTube.............................................................................................................PeerTube p.77
+
+
+
+Remerciements
+
+Merci à itopie qui a initié le projet en 
+accueillant le travail de bachelor de 
+Mr. Safa Shams en 2019.
+
+
+
+Impressum
+
+Ce guide est basé sur le travail de bachelor de Safa Shams, 
+réalisé dans le cadre de la formation en Ingénierie des médias 
+de la HEIG-VD à Yverdon-les-Bains. 
+
+Il a été réalisé en collaboration avec Audrey Huguenin, 
+collaboratrice scientifique au sein du Media Engineering 
+Institute (MEI). 
+
+Recherches et rédaction : Safa Shams, Audrey Huguenin
+
+Design : Audrey Huguenin, Safa Shams
+
+Illustrations : Pécub (Pierpaolo Pugnale)
+
+Relecture : L’équipe du MEI
+
+Édité par : Media Engineering Institue (MEI), HEIG-VD
+
+Publication : Yverdon-les-Bains - Février 2020
+
+Contact
+
+• Télécharger le guide en version PDF
+• Commander gratuitement le guide en version papier
+• Commenter, suggérer, poser une question
+
+
+Rendez-vous sur : https://heig.ch/guide-ess
+
+Vos retours sont 
+les bienvenus !
+
+
+
+License
+
+CC BY-SA
+
+Cette oeuvre est mise à disposition sous licence Attribution 
+- Partage dans les Mêmes Conditions 4.0 International. 
+Pour voir une copie de cette licence, visitez 
+http://creativecommons.org/licenses/by-sa/4.0/ ou écrivez à 
+Creative Commons, PO Box 1866, Mountain View, CA 94042, 
+USA.
+
+
+
+L’évolution des pratiques des géants numériques 
+montre à quel point leurs valeurs sont éloignées des 
+principes qui guident les acteurs de l’Économie sociale 
+et solidaire (ESS).
+
+Malgré ce conflit viscéral, beaucoup de structures 
+relevant de l’ESS continuent à utiliser leurs outils et 
+leurs services pour leur communication numérique.
+
+L’objectif de ce guide est de montrer qu’il existe des 
+alternatives valables pour remplacer ces outils et ces 
+services par des solutions bien plus vertueuses.
+
+Le guide comporte une première partie qui rappelle 
+le fossé entre les valeurs des géants numériques 
+comme les GAFAM et celles de l’ESS. Elle présente 
+ensuite les logiciels libres en tant que piste à suivre.
+
+La seconde partie présente un catalogue organisé 
+de solutions alternatives pour permettre aux ESS de 
+découvrir des pistes concrètes pour rendre leur communication 
+numérique cohérente avec leurs valeurs 
+fondamentales.
+
+
+Un guide basé sur le travail de bachelor de Safa Shams
+
+Réalisé en collaboration avec Audrey Huguenin
+
+Illustré par Pécub
+
+
+
